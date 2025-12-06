@@ -13,46 +13,46 @@ gsap.registerPlugin(ScrollTrigger);
 export default function Hero() {
   const hero = data.aiml.hero;
 
-  const fadeOutRefs = useRef<Array<HTMLDivElement | null>>([]);
-  const scaleOutRefs = useRef<Array<HTMLDivElement | null>>([]);
+  const fadeOutRefs = useRef<(HTMLDivElement | null)[]>([]);
+  const scaleOutRefs = useRef<(HTMLDivElement | null)[]>([]);
 
   useEffect(() => {
     fadeOutRefs.current.forEach((el) => {
-      if (el) {
-        gsap
-          .timeline({
-            scrollTrigger: {
-              trigger: ".mxd-hero-08__tl-trigger",
-              start: "top 80%",
-              end: "top 40%",
-              scrub: true,
-            },
-          })
-          .fromTo(
-            el,
-            { transform: "translate3d(0, 0, 0)", opacity: 1 },
-            { transform: "translate3d(0, -5rem, 0)", opacity: 0 }
-          );
-      }
+      if (!el) return;
+
+      gsap
+        .timeline({
+          scrollTrigger: {
+            trigger: ".mxd-hero-08__tl-trigger",
+            start: "top 80%",
+            end: "top 40%",
+            scrub: true,
+          },
+        })
+        .fromTo(
+          el,
+          { transform: "translate3d(0, 0, 0)", opacity: 1 },
+          { transform: "translate3d(0, -5rem, 0)", opacity: 0 }
+        );
     });
 
     scaleOutRefs.current.forEach((el) => {
-      if (el) {
-        gsap
-          .timeline({
-            scrollTrigger: {
-              trigger: ".mxd-hero-08__tl-trigger",
-              start: "top 40%",
-              end: "top 10%",
-              scrub: true,
-            },
-          })
-          .fromTo(
-            el,
-            { transform: "translate3d(0, 0, 0)", scaleY: 1, opacity: 1 },
-            { transform: "translate3d(0, -5rem, 0)", scaleY: 1.2, opacity: 0 }
-          );
-      }
+      if (!el) return;
+
+      gsap
+        .timeline({
+          scrollTrigger: {
+            trigger: ".mxd-hero-08__tl-trigger",
+            start: "top 40%",
+            end: "top 10%",
+            scrub: true,
+          },
+        })
+        .fromTo(
+          el,
+          { transform: "translate3d(0, 0, 0)", scaleY: 1, opacity: 1 },
+          { transform: "translate3d(0, -5rem, 0)", scaleY: 1.2, opacity: 0 }
+        );
     });
 
     return () => {
@@ -79,7 +79,9 @@ export default function Hero() {
 
                 <div
                   className="hero-08-headline__title hero-08-slide-out-scroll loading__item"
-                  ref={(el) => (fadeOutRefs.current[0] = el)}
+                  ref={(el: HTMLDivElement | null) => {
+                    fadeOutRefs.current[0] = el;
+                  }}
                 >
                   <h1>{hero.title}</h1>
                 </div>
@@ -90,7 +92,9 @@ export default function Hero() {
           <div className="mxd-hero-08__bottom">
             <div
               className="mxd-hero-08__data-wrap hero-08-scale-out-scroll"
-              ref={(el) => (scaleOutRefs.current[1] = el)}
+              ref={(el: HTMLDivElement | null) => {
+                scaleOutRefs.current[1] = el;
+              }}
             >
               <div className="mxd-hero__mark loading__item">
                 <span className="mark-icon" />
@@ -106,7 +110,9 @@ export default function Hero() {
 
             <div
               className="mxd-hero-08__video-wrap hero-08-scale-out-scroll loading__item"
-              ref={(el) => (scaleOutRefs.current[0] = el)}
+              ref={(el: HTMLDivElement | null) => {
+                scaleOutRefs.current[0] = el;
+              }}
             >
               <video
                 className="mxd-hero-08__video"
