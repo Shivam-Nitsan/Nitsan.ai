@@ -3,7 +3,12 @@
 import { useEffect, useRef } from "react";
 import Typed from "typed.js";
 
-export default function TypedText({ strings = [] }) {
+// ✅ define props type
+type TypedTextProps = {
+  strings?: string[]; // optional, we handle default
+};
+
+export default function TypedText({ strings = [] }: TypedTextProps) {
   const el = useRef<HTMLSpanElement | null>(null);
   const typedInstance = useRef<Typed | null>(null);
 
@@ -14,7 +19,7 @@ export default function TypedText({ strings = [] }) {
         loop: true,
         typeSpeed: 60,
         backSpeed: 30,
-        backDelay: 2500
+        backDelay: 2500,
       });
     }
 
