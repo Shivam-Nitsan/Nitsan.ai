@@ -1,0 +1,3906 @@
+{
+    "testimonialsPortfolio": [
+      {
+        "authorPhoto": "/img/avatars/300x300_ava-03.webp",
+        "authorPhotoWidth": 300,
+        "authorPhotoHeight": 300,
+        "authorName": "Alex Tomato",
+        "authorPosition": "Brand Manager in",
+        "authorCompany": "Instant Design",
+        "authorCompanyUrl": "#",
+        "rating": 5,
+        "text": "Working with Rayo team was an absolute pleasure! They took the time to understand our business needs and translated them into a beautifully designed, user-friendly website.",
+        "projectPage": "#",
+        "testimonialImage": "/img/testimonials/1400x1200_t01.webp",
+        "testimonialImageWidth": 1433,
+        "testimonialImageHeight": 1200,
+        "buttonText": " Project Page"
+      },
+      {
+        "authorPhoto": "/img/avatars/300x300_ava-04.webp",
+        "authorPhotoWidth": 300,
+        "authorPhotoHeight": 300,
+        "authorName": "Alex Tomato",
+        "authorPosition": "SEO in",
+        "authorCompany": "Eye Candy",
+        "authorCompanyUrl": "#",
+        "rating": 5,
+        "text": "The team's attention to detail, creativity, and technical expertise exceeded our expectations. We've received so much positive feedback from our customers already.",
+        "projectPage": "#",
+        "testimonialImage": "/img/testimonials/1400x1200_t02.webp",
+        "testimonialImageWidth": 1433,
+        "testimonialImageHeight": 1200,
+        "buttonText": " Project Page"
+      }
+    ],
+   
+  "facts": [
+    {
+      "number": 50,
+      "suffix": "+",
+      "description": "Happy clients who\ntrust my work",
+      "image": "/img/illustrations/800x800_card-image-01.webp",
+      "imageWidth": 800,
+      "imageHeight": 800,
+
+      "button": {
+        "text": "Studio",
+        "href": "/about-us",
+        "iconClass": "ph-bold ph-arrow-up-right",
+        "btnClass": "btn btn-anim btn-default btn-outline opposite slide-right-up"
+      },
+
+      "cardClass": "mxd-stats-cards__inner align-end bg-accent radius-m padding-4",
+      "counterId": "stats-counter-1",
+      "numberClass": "mxd-counter__number mxd-stats-number opposite",
+      "descrClass": "mxd-counter__descr t-140 t-bright opposite",
+      "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-1",
+      "colClass": "col-12 col-xl-5 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-right"
+    },
+
+    {
+      "number": 80,
+      "suffix": "%",
+      "description": "Clients come back for\na new projects",
+      "image": "/img/illustrations/800x800_card-image-02.webp",
+      "imageWidth": 800,
+      "imageHeight": 800,
+
+      "avatars": [
+        {
+          "src": "/img/avatars/300x300_ava-02.webp",
+          "alt": "Avatar",
+          "width": 300,
+          "height": 300
+        },
+        {
+          "svg": true
+        },
+        {
+          "src": "/img/avatars/300x300_ava-01.webp",
+          "alt": "Avatar",
+          "width": 300,
+          "height": 300
+        }
+      ],
+
+      "cardClass": "mxd-stats-cards__inner align-end bg-base-tint radius-m padding-4",
+      "counterId": "stats-counter-2",
+      "numberClass": "mxd-counter__number mxd-stats-number",
+      "descrClass": "mxd-counter__descr t-140 t-bright",
+      "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-2",
+      "colClass": "col-12 col-xl-7 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-left"
+    },
+
+    {
+      "number": 5,
+      "suffix": "+",
+      "description": "Years of professional experience in designing digital products",
+      "image": "/img/illustrations/800x800_card-image-03.webp",
+      "imageWidth": 800,
+      "imageHeight": 800,
+
+      "button": {
+        "text": "Start New Project",
+        "href": "/contact",
+        "iconClass": "ph-bold ph-arrow-down-right",
+        "btnClass": "btn btn-anim btn-default btn-outline slide-right-down"
+      },
+
+      "cardClass": "mxd-stats-cards__inner bg-base-tint radius-m padding-4",
+      "counterId": "stats-counter-3",
+      "numberClass": "mxd-counter__number mxd-stats-number",
+      "descrClass": "mxd-counter__descr t-140 t-bright",
+      "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-3",
+      "colClass": "col-12 col-xl-7 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-right"
+    },
+
+    {
+      "number": 70,
+      "suffix": "+",
+      "description": "Successfully\ncompleted projects",
+      "image": "/img/illustrations/800x800_card-image-04.webp",
+      "imageWidth": 800,
+      "imageHeight": 800,
+
+      "button": {
+        "text": "Works",
+        "href": "/works-simple",
+        "iconClass": "ph-bold ph-arrow-up-right",
+        "btnClass": "btn btn-anim btn-default btn-outline slide-right-up"
+      },
+
+      "cardClass": "mxd-stats-cards__inner bg-base-tint radius-m padding-4",
+      "counterId": "stats-counter-4",
+      "numberClass": "mxd-counter__number mxd-stats-number",
+      "descrClass": "mxd-counter__descr t-140 t-bright",
+      "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-4",
+      "colClass": "col-12 col-xl-5 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-left"
+    }
+  ],
+
+
+    "expertise": [
+      {
+        "title": "UI/UX design",
+        "num": "/ 01",
+        "hoverImage": "/img/illustrations/600x730_cpb-04.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-04.webp"
+      },
+      {
+        "title": "Hi-end websites",
+        "num": "/ 02",
+        "hoverImage": "/img/illustrations/600x730_cpb-01.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-01.webp"
+      },
+      {
+        "title": "Framer",
+        "num": "/ 03",
+        "hoverImage": "/img/illustrations/600x730_cpb-02.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-02.webp"
+      },
+      {
+        "title": "Webflow",
+        "num": "/ 04",
+        "hoverImage": "/img/illustrations/600x730_cpb-03.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-03.webp"
+      },
+      {
+        "title": "3d art",
+        "num": "/ 05",
+        "hoverImage": "/img/illustrations/600x730_cpb-05.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-05.webp"
+      },
+      {
+        "title": "Motion graphics",
+        "num": "/ 06",
+        "hoverImage": "/img/illustrations/600x730_cpb-06.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-06.webp"
+      }
+    ],
+    "capabilities-digital-agency": [
+      {
+        "title": "UI/UX design",
+        "num": "/ 01",
+        "hoverImage": "/img/illustrations/600x730_cpb-04.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-04.webp"
+      },
+      {
+        "title": "Hi-end websites",
+        "num": "/ 02",
+        "hoverImage": "/img/illustrations/600x730_cpb-01.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-01.webp"
+      },
+      {
+        "title": "Product design",
+        "num": "/ 03",
+        "hoverImage": "/img/illustrations/600x730_cpb-03.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-03.webp"
+      },
+      {
+        "title": "Web & mobile apps",
+        "num": "/ 04",
+        "hoverImage": "/img/illustrations/600x730_cpb-02.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-02.webp"
+      },
+      {
+        "title": "Project management",
+        "num": "/ 05",
+        "hoverImage": "/img/illustrations/600x730_cpb-05.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-05.webp"
+      }
+    ],
+    "faqs": [
+      {
+        "question": "What services do you offer?",
+        "answer": "We provide a comprehensive range of digital solutions, including website design and development, branding, digital marketing, e-commerce solutions, SEO, content creation, and ongoing support. Whether you need a new website, a brand refresh, or a digital marketing strategy, our team is equipped to help your business grow online."
+      },
+      {
+        "question": "How long does a project take?",
+        "answer": "Timelines vary based on project complexity. A simple website may take a few weeks, while a full-scale brand identity or custom development project could take a few months. We provide clear deadlines and keep you updated at every stage."
+      },
+      {
+        "question": "Do you work with businesses of all sizes?",
+        "answer": "Yes! We collaborate with startups, small businesses, and large enterprises across various industries. No matter your company's size or stage, we tailor our services to meet your specific needs and goals."
+      },
+      {
+        "question": "Can you redesign my existing website?",
+        "answer": "Absolutely. We specialize in website redesigns to improve user experience, modernize your brand, and optimize performance. We'll work with you to understand your vision and business objectives, then transform your current site into a powerful digital asset."
+      },
+      {
+        "question": "Can you help improve my website's search engine ranking?",
+        "answer": "Our SEO experts use proven strategies including keyword research, on-page optimization, link building, and content creation to boost your website's visibility and ranking on search engines like Google."
+      },
+      {
+        "question": "Do you provide ongoing support and maintenance?",
+        "answer": "Yes! We offer ongoing website maintenance, performance monitoring, and digital marketing support to ensure your online presence remains effective and up-to-date. Our support packages can be tailored to your needs."
+      },
+      {
+        "question": "How do we get started?",
+        "answer": "Getting started is easy! Simply contact us through our website or give us a call. We'll schedule a discovery call to discuss your goals, challenges, and project requirements. From there, we'll provide a proposal outlining our recommended approach, timeline, and next steps."
+      }
+    ],
+ 
+    
+  "awards": [
+    {
+      "title": "Some article on Medium",
+      "url": "https://medium.com/",
+      "image": "/img/works/preview/600x600_prv-01.webp",
+      "imageWidth": 601,
+      "imageHeight": 600,
+      "tags": ["UI/UX design", "Development"],
+      "date": "2025"
+    },
+    {
+      "title": "Awwwards nomination",
+      "url": "https://www.awwwards.com/",
+      "image": "/img/works/preview/600x600_prv-02.webp",
+      "imageWidth": 600,
+      "imageHeight": 601,
+      "tags": ["UI/UX", "Frontend"],
+      "date": "2024"
+    },
+    {
+      "title": "Behance curated work",
+      "url": "https://www.behance.net/",
+      "image": "/img/works/preview/600x600_prv-03.webp",
+      "imageWidth": 600,
+      "imageHeight": 600,
+      "tags": ["Illustrations", "Graphic design"],
+      "date": "2024"
+    },
+    {
+      "title": "Article on Medium",
+      "url": "https://medium.com/",
+      "image": "/img/works/preview/600x600_prv-04.webp",
+      "imageWidth": 600,
+      "imageHeight": 600,
+      "tags": ["UI/UX", "Frontend"],
+      "date": "2024"
+    }
+  ],
+    "testimonials": [
+      {
+        "authorPhoto": "/img/avatars/300x300_ava-05.webp",
+        "authorPhotoWidth": 300,
+        "authorPhotoHeight": 300,
+        "companyLogo": "/img/brands/envato.svg",
+        "companyLogoWidth": 700,
+        "companyLogoHeight": 169,
+        "text": "The Rayo team nailed it! They understood our vision and delivered a sleek, intuitive site that our clients love.",
+        "projectPage": "#",
+        "authorName": "Lea Tomato",
+        "authorPosition": "Senior designer in",
+        "authorCompany": "The Way",
+        "authorCompanyUrl": "#"
+      },
+      {
+        "authorPhoto": "/img/avatars/300x300_ava-04.webp",
+        "authorPhotoWidth": 300,
+        "authorPhotoHeight": 300,
+        "companyLogo": "/img/brands/envato.svg",
+        "companyLogoWidth": 700,
+        "companyLogoHeight": 169,
+        "text": "The team's attention to detail, creativity, and technical expertise exceeded our expectations. We've received so much positive feedback from our customers already.",
+        "projectPage": "#",
+        "authorName": "Ashley Cherry",
+        "authorPosition": "SEO in",
+        "authorCompany": "Eye Candy",
+        "authorCompanyUrl": "#"
+      },
+      {
+        "authorPhoto": "/img/avatars/300x300_ava-06.webp",
+        "authorPhotoWidth": 300,
+        "authorPhotoHeight": 300,
+        "companyLogo": "/img/brands/envato.svg",
+        "companyLogoWidth": 700,
+        "companyLogoHeight": 169,
+        "text": "Amazing experience working with Rayo! They made the process smooth and gave us a website that truly reflects our brand.",
+        "projectPage": "#",
+        "authorName": "Patrick Pineapple",
+        "authorPosition": "SEO in",
+        "authorCompany": "Instant Design",
+        "authorCompanyUrl": "#"
+      },
+      {
+        "authorPhoto": "/img/avatars/300x300_ava-03.webp",
+        "authorPhotoWidth": 300,
+        "authorPhotoHeight": 300,
+        "companyLogo": "/img/brands/envato.svg",
+        "companyLogoWidth": 700,
+        "companyLogoHeight": 169,
+        "text": "Working with Rayo team was an absolute pleasure! They took the time to understand our business needs and translated them into a beautifully designed, user-friendly website.",
+        "projectPage": "#",
+        "authorName": "John Lemon",
+        "authorPosition": "Brand Manager in",
+        "authorCompany": "Instant Design",
+        "authorCompanyUrl": "#"
+      }
+    ],
+    "menu": {
+        "menuHeader":{
+            "upperHeader": "🦄 Innovative design",
+        "lowerHeader" : " and cutting-edge development"
+        },
+        "mainMenu":[
+              {
+        "title": "Home",
+        "href": "/"
+      },
+      {
+        "title": "Solutions",
+        "submenu": [
+          {
+            "label": "AI & ML",
+            "href": "/ai-ml",
+            "description":"Build intelligent systems that learn"
+          },
+          {
+            "label": "Product Development",
+            "href": "/product",
+            "description":" Turn ideas into market-ready AI products"
+          },
+          {
+            "label": "Staff Augmentation",
+            "href": "/staff",
+            "description":" Add expert capacity to your team"
+          },
+          {
+            "label": "Web & Mobile Development",
+            "href": "/web-mobile",
+            "description":" Design seamless experiences across platforms"
+          },
+          {
+            "label": "Cloud & Support",
+            "href": "/cloud",
+            "description":" Move faster & scale with the cloud ops"
+          },
+          {
+            "label": "Software Consultation",
+            "href": "/consultation",
+            "description":" Expert guidance for better AI decisions"
+          }
+        ]
+      },
+      {
+        "title": "AI",
+        "href": "/ai-ml"
+      },
+      {
+        "title": "Case studies",
+        "href": "/case-study"
+      },
+      {
+        "title": "About",
+        "href": "/about-us"
+      },
+      {
+        "title": "Contact",
+        "href": "/contact"
+      }
+        ],
+        "menuFooter":{
+        "leftFooterStart": "Made with",
+        "leftFooterMiddle": "by",
+        "leftFooterEnd": "ib themes",
+
+        "rightFooter" : "2025"
+        },
+        "menuRightContent":{
+            "menuRightContentTop":"  👋 New Rayo template is here!",
+            "menuRightContentBottom":"     Showcase your projects, services and expertise with impact."
+        }
+    },
+    "experiences": {
+  "sectionTitle": "Work Experience",
+  "sectionSubtitle": "My professional journey",
+  "experiences": [
+    {
+      "role": "Illustrator",
+      "agency": "Creative Mind",
+      "agencyUrl": "#",
+      "desc": "I created original images for a range of digital and printed products.",
+      "year": "2019 - 2021"
+    },
+    {
+      "role": "Graphic designer",
+      "agency": "Moon Light",
+      "agencyUrl": "#",
+      "desc": "My job was to create adverts, branding, signage and other media products.",
+      "year": "2021 - 2024"
+    },
+    {
+      "role": "UI/UX designer",
+      "agency": "Moon Light",
+      "agencyUrl": "#",
+      "desc": "I am actively involved in creating user interfaces for mobile apps and websites.",
+      "year": "2024 - now"
+    }
+  ]
+}
+,
+    "pricing": [
+      {
+        "tag": "\ud83e\udd84 Special Offer",
+        "tagClass": "tag-default tag-accent",
+        "title": "Custom Website",
+        "descr": "Inspiring ideas, creative insights, and the latest in design and tech. Fueling innovation for your digital journey.",
+        "currency": "$",
+        "amount": "8000",
+        "period": "/once",
+        "timeline": "Timeline: from 2 weeks to 1 month",
+        "btnText": "Start Project",
+        "btnHref": "contact.html",
+        "features": [
+          "Custom design and development",
+          "Responsive layout",
+          "SEO optimization",
+          "CMS integration",
+          "Basic training"
+        ],
+        "linkText": "Need more info? Let's talk.",
+        "linkHref": "contact.html"
+      },
+      {
+        "tag": "\ud83d\udd25 Best Choice",
+        "tagClass": "tag-default tag-additional",
+        "title": "Brand Support",
+        "descr": "Ongoing creative services to maintain, enhance, and grow your brand's visual identity.",
+        "currency": "$",
+        "amount": "399",
+        "period": "/month",
+        "timeline": "Timeline: monthly subscription",
+        "btnText": "Start Project",
+        "btnHref": "contact.html",
+        "features": [
+          "Digital and print design",
+          "Website updates & management",
+          "Social media branding",
+          "Brand strategy & consulting",
+          "Priority creative support"
+        ],
+        "linkText": "Need more info? Let's talk.",
+        "linkHref": "contact.html",
+        "best": true
+      },
+      {
+        "title": "Customize your package, and get exactly what fits your vision.",
+        "descr": "",
+        "currency": "",
+        "amount": "",
+        "period": "",
+        "btnText": "Start Project",
+        "btnHref": "contact.html",
+        "features": [
+          "Pick the services you need",
+          "Scalable projects",
+          "Flexible adjustments",
+          "Project management",
+          "Ongoing support"
+        ],
+        "linkText": "Need more info? Let's talk.",
+        "linkHref": "contact.html"
+      }
+    ],
+    "blogs": {
+      "blogs1": [
+        {
+          "id": 17,
+          "imageClass": "blog-preview-image-1",
+          "tags": [
+            "Concept",
+            "Editorial"
+          ],
+          "imgSrc": "/img/blog/preview/1000x1250_prv-01.webp",
+          "title": {
+            "before": "Frontend innovations",
+            "after": " and user journeys"
+          }
+        },
+        {
+          "id": 18,
+          "imageClass": "blog-preview-image-2",
+          "tags": [
+            "UI/UX",
+            "Development"
+          ],
+          "imgSrc": "/img/blog/preview/1000x1250_prv-02.webp",
+          "title": {
+            "before": "Branding in creating",
+            "highlight": "digital experiences"
+          }
+        },
+        {
+          "id": 19,
+          "imageClass": "blog-preview-image-3",
+          "imgSrc": "/img/blog/preview/1000x1250_prv-03.webp",
+          "tags": [
+            "News",
+            "AI"
+          ],
+          "title": {
+            "before": "Elevating ",
+            "highlight": "digital workshops",
+            "after": " with engaging design"
+          }
+        }
+      ],
+      "blogs2": [
+        {
+          "id": 1,
+          "img": "/img/blog/1400x900_pf-01.webp",
+          "categories": [
+            "Midjourney",
+            "AI",
+            "Editorial"
+          ],
+          "meta": [
+            "Midjourney",
+            "AI",
+            "Editorial"
+          ],
+          "date": "January 22, 2025",
+          "title": "My journey into the future of art",
+          "excerpt": "Discover how artificial intelligence is transforming artistic processes, pushing boundaries, and inspiring new possibilities in digital design."
+        }
+      ],
+      "blogs3": [
+        {
+          "id": 2,
+          "img": "/img/blog/800x680_ps-01.webp",
+          "imgAlt": "Post Simple Thumb",
+          "meta": [
+            {
+              "label": "Interactive design"
+            },
+            {
+              "label": "Web experience"
+            }
+          ],
+          "date": "January 22, 2025",
+          "title": "Designing for the future of interactive digital spaces"
+        },
+        {
+          "id": 3,
+          "img": "/img/blog/800x680_ps-02.webp",
+          "imgAlt": "Post Simple Thumb",
+          "meta": [
+            {
+              "label": "Web design"
+            },
+            {
+              "label": "Branding"
+            },
+            {
+              "label": "UI"
+            }
+          ],
+          "date": "January 09, 2025",
+          "title": "Mastering the art of minimalist web design with impact"
+        },
+        {
+          "id": 4,
+          "img": "/img/blog/800x680_ps-03.webp",
+          "imgAlt": "Post Simple Thumb",
+          "meta": [
+            {
+              "label": "3D"
+            },
+            {
+              "label": "Design"
+            },
+            {
+              "label": "Digital workshop"
+            }
+          ],
+          "date": "January 04, 2025",
+          "title": "Crafting immersive 3d worlds with modern tools"
+        },
+        {
+          "id": 5,
+          "img": "/img/blog/800x680_ps-04.webp",
+          "imgAlt": "Post Simple Thumb",
+          "meta": [
+            {
+              "label": "Motion design"
+            },
+            {
+              "label": "Branding"
+            },
+            {
+              "label": "Workshop"
+            }
+          ],
+          "date": "December 22, 2024",
+          "title": "Bringing ideas to life with motion design and creativity"
+        },
+        {
+          "id": 6,
+          "img": "/img/blog/800x680_ps-05.webp",
+          "imgAlt": "Post Simple Thumb",
+          "meta": [
+            {
+              "label": "UI/UX"
+            },
+            {
+              "label": "Frontend"
+            },
+            {
+              "label": "Branding"
+            }
+          ],
+          "date": "December 10, 2024",
+          "title": "The role of branding in creating memorable digital experiences"
+        }
+      ],
+      "blogs4": [
+        {
+          "id": 7,
+          "img": "/img/blog/300x300_rp-01.webp",
+          "category": "Design",
+          "title": "Mastering the art of minimalist web design with impact"
+        },
+        {
+          "id": 8,
+          "img": "/img/blog/300x300_rp-02.webp",
+          "category": "Technology",
+          "title": "Designing for the future of interactive digital spaces"
+        },
+        {
+          "id": 9,
+          "img": "/img/blog/300x300_rp-03.webp",
+          "category": "Technology",
+          "title": "Crafting immersive 3d worlds with modern tools"
+        }
+      ],
+      "blogs5": [
+        {
+          "id": 10,
+          "img": "/img/blog/1000x1250_psec-01.webp",
+          "categories": [
+            "Interactive design",
+            "Web experience"
+          ],
+          "meta": [
+            "Interactive design",
+            "Web experience"
+          ],
+          "date": "January 15, 2025",
+          "title": "Designing for the future of interactive digital spaces"
+        },
+        {
+          "id": 11,
+          "img": "/img/blog/1000x1250_psec-02.webp",
+          "categories": [
+            "Web design",
+            "Branding",
+            "UI"
+          ],
+          "meta": [
+            "Web design",
+            "Branding",
+            "UI"
+          ],
+          "date": "January 09, 2025",
+          "title": "Mastering the art of minimalist web design with impact"
+        }
+      ],
+      "blogs6": [
+        {
+          "id": 12,
+          "img": "/img/blog/1200x800_pa-01.webp",
+          "title": "Crafting immersive 3d worlds with modern tools",
+          "tags": [
+            "3d",
+            "Design",
+            "Digital workshop"
+          ],
+          "date": "January 04, 2025"
+        },
+        {
+          "id": 13,
+          "img": "/img/blog/1200x800_pa-02.webp",
+          "title": "Bringing ideas to life with motion design and creativity",
+          "tags": [
+            "Motion design",
+            "Branding",
+            "Workshop"
+          ],
+          "date": "December 22, 2024"
+        },
+        {
+          "id": 14,
+          "img": "/img/blog/1200x800_pa-03.webp",
+          "title": "The role of branding in creating memorable digital experiences",
+          "tags": [
+            "UI/UX",
+            "Frontend",
+            "Branding"
+          ],
+          "date": "December 10, 2024"
+        },
+        {
+          "id": 15,
+          "img": "/img/blog/1200x800_pa-04.webp",
+          "title": "How frontend innovations shape interactive user journeys",
+          "tags": [
+            "Frontend",
+            "UX"
+          ],
+          "date": "November 22, 2024"
+        },
+        {
+          "id": 16,
+          "img": "/img/blog/1200x800_pa-05.webp",
+          "title": "Digital workshops with engaging and responsive design",
+          "tags": [
+            "Digital workshop",
+            "Interactive design",
+            "UI"
+          ],
+          "date": "November 20, 2024"
+        }
+      ]
+    },
+ 
+    "partners": {
+      "top": [
+        {
+          "src": "/img/brands/envato.svg",
+          "width": 700,
+          "height": 169,
+          "href": "#0"
+        },
+        {
+          "src": "/img/brands/angular.svg",
+          "width": 700,
+          "height": 169,
+          "href": "#0"
+        },
+        {
+          "src": "/img/brands/deepseek.svg",
+          "width": 665,
+          "height": 148,
+          "href": "#0"
+        },
+        {
+          "src": "/img/brands/dribbble.svg",
+          "width": 917,
+          "height": 258,
+          "href": "#0"
+        },
+        {
+          "src": "/img/brands/udemy.svg",
+          "width": 631,
+          "height": 237,
+          "href": "#0"
+        },
+        {
+          "src": "/img/brands/behance.svg",
+          "width": 2499,
+          "height": 464,
+          "href": "#0"
+        }
+      ],
+      "bottom": [
+        {
+          "src": "/img/brands/codeninja.svg",
+          "width": 223,
+          "height": 34,
+          "href": "#0"
+        },
+        {
+          "src": "/img/brands/crewai.svg",
+          "width": 144,
+          "height": 38,
+          "href": "#0"
+        },
+        {
+          "src": "/img/brands/smartlook.svg",
+          "width": 149,
+          "height": 24,
+          "href": "#0"
+        },
+        {
+          "src": "/img/brands/ghostgaming.svg",
+          "width": 2854,
+          "height": 1199,
+          "href": "#0"
+        },
+        {
+          "src": "/img/brands/logitech.svg",
+          "width": 702,
+          "height": 210,
+          "href": "#0"
+        },
+        {
+          "src": "/img/brands/mozilla.svg",
+          "width": 984,
+          "height": 235,
+          "href": "#0"
+        }
+      ]
+    },
+    "capabilities": [
+      {
+        "title": "Software development",
+        "num": "/ 01",
+        "hoverImage": "/img/illustrations/600x730_cpb-01.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-01.webp"
+      },
+      {
+        "title": "Web app development",
+        "num": "/ 02",
+        "hoverImage": "/img/illustrations/600x730_cpb-03.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-03.webp"
+      },
+      {
+        "title": "Mobile app development",
+        "num": "/ 03",
+        "hoverImage": "/img/illustrations/600x730_cpb-02.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-02.webp"
+      },
+      {
+        "title": "UI/UX design",
+        "num": "/ 04",
+        "hoverImage": "/img/illustrations/600x730_cpb-04.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-04.webp"
+      },
+      {
+        "title": "Software testing",
+        "num": "/ 05",
+        "hoverImage": "/img/illustrations/600x730_cpb-05.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-05.webp"
+      },
+      {
+        "title": "Generative AI development",
+        "num": "/ 06",
+        "hoverImage": "/img/illustrations/600x730_cpb-06.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-06.webp"
+      },
+      {
+        "title": "Data engineering",
+        "num": "/ 07",
+        "hoverImage": "/img/illustrations/600x730_cpb-07.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-07.webp"
+      }
+    ],
+    "team": [
+      {
+        "id": 1,
+        "name": "Helen Pineapple",
+        "position": "Founder, SEO",
+        "image": {
+          "src": "/img/team/800x920_team-06.webp",
+          "alt": "Helen Pineapple",
+          "width": 800,
+          "height": 920
+        },
+        "socials": [
+          {
+            "name": "Linkedin",
+            "url": "https://www.linkedin.com/"
+          },
+          {
+            "name": "Behance",
+            "url": "https://www.behance.net/"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Alex Tomato",
+        "position": "SEO, Brand manager",
+        "image": {
+          "src": "/img/team/800x920_team-05.webp",
+          "alt": "Alex Tomato",
+          "width": 800,
+          "height": 920
+        },
+        "socials": [
+          {
+            "name": "Linkedin",
+            "url": "https://www.linkedin.com/"
+          },
+          {
+            "name": "Figma Community",
+            "url": "https://www.figma.com/community"
+          }
+        ]
+      }
+    ],
+    "facts-simple": [
+      {
+        "id": 1,
+        "number": 50,
+        "suffix": "+",
+        "description": "Happy clients who\ntrust my work",
+        "image": "/img/icons/h70_stats-01.webp",
+        "imageWidth": 311,
+        "imageHeight": 280,
+        "counterId": "stats-counter-1"
+      },
+      {
+        "id": 2,
+        "number": 80,
+        "suffix": "%",
+        "description": "Clients come back for\na new projects",
+        "image": "/img/icons/h70_stats-02.webp",
+        "imageWidth": 280,
+        "imageHeight": 280,
+        "counterId": "stats-counter-2"
+      },
+      {
+        "id": 3,
+        "number": 5,
+        "suffix": "+",
+        "description": "Years of professional\nexperience",
+        "image": "/img/icons/h70_stats-03.webp",
+        "imageWidth": 280,
+        "imageHeight": 280,
+        "counterId": "stats-counter-3"
+      },
+      {
+        "id": 4,
+        "number": 70,
+        "suffix": "+",
+        "description": "Successfully\ncompleted projects",
+        "image": "/img/icons/h70_stats-04.webp",
+        "imageWidth": 274,
+        "imageHeight": 280,
+        "counterId": "stats-counter-4"
+      }
+    ],
+  "approach": {
+    "title": "Approach and philosophy",
+
+    "subtitles": ["Design", "Development", "Mastership"],
+
+    "button": {
+      "text": "Let's Chat",
+      "link": "/contact",
+      "icon": "ph-bold ph-arrow-up-right"
+    },
+
+    "approach1": [
+      {
+        "title": "Perfection",
+        "description": "From pixel-perfect designs to flawless code, every aspect of our projects is crafted with care to ensure the highest standards of quality.",
+        "icon": "/img/icons/h70_appr-01.webp"
+      },
+      {
+        "title": "Innovative",
+        "description": "We stay ahead of design trends, offering modern and visually impactful solutions that set your brand apart.",
+        "icon": "/img/icons/h70_appr-02.webp"
+      },
+      {
+        "title": "Expertise",
+        "description": "We are passionate about integrating the latest technologies and trends, including interactive animations and mobile-first strategies.",
+        "icon": "/img/icons/h70_appr-03.webp"
+      },
+      {
+        "title": "Full-Cycle services",
+        "description": "From web design to development, branding, SEO, and UX/UI, we provide a full range of services that cover all your digital needs.",
+        "icon": "/img/icons/h70_appr-04.webp"
+      },
+      {
+        "title": "Client Success",
+        "description": "Our clients consistently see improved engagement, conversion rates, and business growth.",
+        "icon": "/img/icons/h70_appr-05.webp"
+      }
+    ]
+  },
+    
+    "techstack": [
+      {
+        "name": "Photoshop",
+        "icon": "/img/tech/icon-photoshop.svg"
+      },
+      {
+        "name": "Figma",
+        "icon": "/img/tech/icon-figma.svg"
+      },
+      {
+        "name": "Illustrator",
+        "icon": "/img/tech/icon-illustrator.svg"
+      },
+      {
+        "name": "Sketch",
+        "icon": "/img/tech/icon-scketch.svg"
+      },
+      {
+        "name": "Blender",
+        "icon": "/img/tech/icon-blender.svg"
+      },
+      {
+        "name": "HTML5",
+        "icon": "/img/tech/icon-html.svg"
+      },
+      {
+        "name": "CSS3",
+        "icon": "/img/tech/icon-css.svg"
+      },
+      {
+        "name": "Notion",
+        "icon": "/img/tech/icon-notion.svg"
+      }
+    ],
+    "innerPagesSlider": [
+      {
+        "href": "/services",
+        "target": "_blank",
+        "img": "/img/demo/inner/03_services.webp",
+        "imgWidth": 1000,
+        "imgHeight": 1413,
+        "title": "Services"
+      },
+      {
+        "href": "/team",
+        "target": "_blank",
+        "img": "/img/demo/inner/04_team.webp",
+        "imgWidth": 1000,
+        "imgHeight": 1413,
+        "title": "Our Team"
+      },
+      {
+        "href": "/pricing",
+        "target": "_blank",
+        "img": "/img/demo/inner/05_pricing.webp",
+        "imgWidth": 1000,
+        "imgHeight": 1413,
+        "title": "Pricing Plans"
+      },
+      {
+        "href": "/about-me",
+        "target": "_blank",
+        "img": "/img/demo/inner/01_about-me.webp",
+        "imgWidth": 1000,
+        "imgHeight": 1413,
+        "title": "About Me"
+      },
+      {
+        "href": "/about-us",
+        "target": "_blank",
+        "img": "/img/demo/inner/02_about-us.webp",
+        "imgWidth": 1000,
+        "imgHeight": 1413,
+        "title": "About Us"
+      },
+      {
+        "href": "/404",
+        "target": "_blank",
+        "img": "/img/demo/inner/08_404.webp",
+        "imgWidth": 1000,
+        "imgHeight": 628,
+        "title": "404 Error"
+      },
+      {
+        "href": "/faq",
+        "target": "_blank",
+        "img": "/img/demo/inner/06_faq.webp",
+        "imgWidth": 1000,
+        "imgHeight": 1413,
+        "title": "FAQ Page"
+      },
+      {
+        "href": "/contact",
+        "target": "_blank",
+        "img": "/img/demo/inner/07_contact.webp",
+        "imgWidth": 1000,
+        "imgHeight": 1413,
+        "title": "Contact"
+      }
+    ],
+    "projects": {
+      "projects1": {
+  "caseStudyMasonry": {
+    "sectionTitle": {
+      "line1": "Projects",
+      "line2": "to explore"
+    },
+
+    "ctaButtonText": "Let's start new project * Let's start new project *",
+
+    "ctaButtonImage": "/img/icons/300x300_obj-btn-03.webp",
+
+    "projects1": [
+      {
+        "id": 1,
+        "title": "Creative studio",
+        "description": "template for modern agencies",
+        "previewClass": "preview-image-1",
+        "tags": ["UI/UX", "Web design", "Illustrations"],
+        "anim": "anim-uni-in-up"
+      },
+      {
+        "id": 2,
+        "title": "Interactive concept",
+        "description": "powered by AI",
+        "previewClass": "preview-image-2",
+        "tags": ["Sora", "AI", "Editorial"],
+        "anim": "anim-uni-in-up"
+      },
+      {
+        "id": 3,
+        "title": "Mobile app design",
+        "description": "for a cross-platform solution",
+        "previewClass": "preview-image-3",
+        "tags": ["UI/UX", "Design", "Android"],
+        "anim": ""
+      },
+      {
+        "id": 4,
+        "title": "NFT project",
+        "description": "branding",
+        "previewClass": "preview-image-4",
+        "tags": ["Brand identity", "Style guides"],
+        "anim": "anim-uni-in-up"
+      },
+      {
+        "id": 5,
+        "title": "Illustrations set",
+        "description": "for digital and print use.",
+        "previewClass": "preview-image-5",
+        "tags": ["Illustrations", "Design", "Packaging"],
+        "anim": "anim-uni-in-up"
+      },
+      {
+        "id": 6,
+        "title": "VR Vision",
+        "description": "experience concept",
+        "previewClass": "preview-image-6",
+        "tags": ["Midjourney", "AI Model"],
+        "anim": "anim-uni-in-up"
+      }
+    ]
+  }
+},
+      "projects2": [
+        {
+          "id": 7,
+          "title": "AI Experiments",
+          "images": {
+            "mobile": "/img/works/preview/1080x1920_prv-01.webp",
+            "desktop": "/img/works/preview/1920x1080_prv-01.webp"
+          },
+          "tags": [
+            "Midjourney",
+            "AI",
+            "Editorial"
+          ],
+          "justify": "justify-end"
+        },
+        {
+          "id": 8,
+          "title": "VR vision project",
+          "images": {
+            "mobile": "/img/works/preview/1080x1920_prv-07.webp",
+            "desktop": "/img/works/preview/1920x1080_prv-07.webp"
+          },
+          "tags": [
+            "Development",
+            "Web",
+            "Editorial"
+          ],
+          "justify": "justify-end"
+        },
+        {
+          "id": 9,
+          "title": "NFT project branding",
+          "images": {
+            "mobile": "/img/works/preview/1080x1920_prv-03.webp",
+            "desktop": "/img/works/preview/1920x1080_prv-03.webp"
+          },
+          "tags": [
+            "Branding",
+            "Web",
+            "Packaging"
+          ],
+          "justify": "justify-end"
+        },
+        {
+          "id": 10,
+          "title": "Studio template",
+          "images": {
+            "mobile": "/img/works/preview/1080x1920_prv-04.webp",
+            "desktop": "/img/works/preview/1920x1080_prv-04.webp"
+          },
+          "tags": [
+            "UI/UX",
+            "Development"
+          ],
+          "justify": "justify-end"
+        }
+      ],
+      "projects3": [
+        {
+          "id": 11,
+          "title": "Tech Impress",
+          "subtitle": "Mobile app",
+          "preview": {
+            "hover": "/img/works/preview/600x730_prv-06.webp",
+            "full": "/img/works/preview/1200x800_prv-06.webp"
+          },
+          "tags": [
+            {
+              "name": "Design system",
+              "icon": true
+            },
+            {
+              "name": "UX",
+              "icon": true
+            },
+            {
+              "name": "Motion",
+              "icon": false
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "title": "Rayo Studio",
+          "subtitle": "Website",
+          "preview": {
+            "hover": "/img/works/preview/600x730_prv-07.webp",
+            "full": "/img/works/preview/1200x800_prv-07.webp"
+          },
+          "tags": [
+            {
+              "name": "Creative direction",
+              "icon": true
+            },
+            {
+              "name": "Visual",
+              "icon": true
+            },
+            {
+              "name": "Motion",
+              "icon": false
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "title": "AI Experiments",
+          "subtitle": "Illustrations",
+          "preview": {
+            "hover": "/img/works/preview/600x730_prv-05.webp",
+            "full": "/img/works/preview/1200x800_prv-05.webp"
+          },
+          "tags": [
+            {
+              "name": "Midjourney",
+              "icon": true
+            },
+            {
+              "name": "Visual",
+              "icon": true
+            },
+            {
+              "name": "Graphics",
+              "icon": false
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "title": "VR Vision Project",
+          "subtitle": "Mobile app",
+          "preview": {
+            "hover": "/img/works/preview/600x730_prv-03.webp",
+            "full": "/img/works/preview/1200x800_prv-03.webp"
+          },
+          "tags": [
+            {
+              "name": "Art direction",
+              "icon": true
+            },
+            {
+              "name": "Visual",
+              "icon": true
+            },
+            {
+              "name": "Motion",
+              "icon": false
+            }
+          ]
+        }
+      ],
+      "projects4": [
+        {
+          "id": 15,
+          "title": "Studio template",
+          "images": {
+            "mobile": "/img/works/preview/1080x1920_prv-04.webp",
+            "desktop": "/img/works/preview/1920x1080_prv-04.webp"
+          },
+          "tags": [
+            "Brand",
+            "Illustrations",
+            "Web"
+          ],
+          "justify": "justify-between"
+        },
+        {
+          "id": 16,
+          "title": "AI Experiments",
+          "images": {
+            "mobile": "/img/works/preview/1080x1920_prv-01.webp",
+            "desktop": "/img/works/preview/1920x1080_prv-01.webp"
+          },
+          "tags": [
+            "Sora",
+            "AI",
+            "Editorial"
+          ],
+          "justify": "justify-between"
+        },
+        {
+          "id": 17,
+          "title": "Mobile app design",
+          "images": {
+            "mobile": "/img/works/preview/1080x1920_prv-05.webp",
+            "desktop": "/img/works/preview/1920x1080_prv-05.webp"
+          },
+          "tags": [
+            "Design",
+            "UI/UX",
+            "Android"
+          ],
+          "justify": "justify-between"
+        }
+      ],
+      "projects5": [
+        {
+          "id": 18,
+          "row": "mxd-hero-02-images__row mxd-hero-02-images__row-01",
+          "wrapperClass": "mxd-hero-02-image__portrait portrait-01",
+          "innerType": "type-01",
+          "src": "/img/hero/07_hero-img.webp",
+          "width": 800,
+          "height": 1200
+        },
+        {
+          "id": 19,
+          "row": "mxd-hero-02-images__row mxd-hero-02-images__row-01",
+          "wrapperClass": "mxd-hero-02-image__landscape landscape-01",
+          "innerType": "type-03",
+          "src": "/img/hero/08_hero-img.webp",
+          "width": 1920,
+          "height": 1080
+        },
+        {
+          "id": 20,
+          "row": "mxd-hero-02-images__row mxd-hero-02-images__row-01",
+          "wrapperClass": "mxd-hero-02-image__portrait portrait-02",
+          "innerType": "type-01",
+          "src": "/img/hero/09_hero-img.webp",
+          "width": 800,
+          "height": 1200
+        },
+        {
+          "id": 21,
+          "row": "mxd-hero-02-images__row mxd-hero-02-images__row-02",
+          "wrapperClass": "mxd-hero-02-image__landscape landscape-02",
+          "innerType": "type-03",
+          "src": "/img/hero/10_hero-img.webp",
+          "width": 1200,
+          "height": 900
+        },
+        {
+          "id": 22,
+          "row": "mxd-hero-02-images__row mxd-hero-02-images__row-02",
+          "wrapperClass": "mxd-hero-02-image__portrait portrait-xl portrait-03",
+          "innerType": "type-02",
+          "src": "/img/hero/11_hero-img.webp",
+          "width": 1000,
+          "height": 1316
+        },
+        {
+          "id": 23,
+          "row": "mxd-hero-02-images__row mxd-hero-02-images__row-03",
+          "wrapperClass": "mxd-hero-02-image__portrait portrait-04",
+          "innerType": "type-01",
+          "src": "/img/hero/13_hero-img.webp",
+          "width": 800,
+          "height": 1200
+        },
+        {
+          "id": 24,
+          "row": "mxd-hero-02-images__row mxd-hero-02-images__row-03",
+          "wrapperClass": "mxd-hero-02-image__landscape landscape-03",
+          "innerType": "type-03",
+          "src": "/img/hero/12_hero-img.webp",
+          "width": 1200,
+          "height": 900
+        },
+        {
+          "id": 25,
+          "row": "mxd-hero-02-images__row mxd-hero-02-images__row-03",
+          "wrapperClass": "mxd-hero-02-image__portrait portrait-05",
+          "innerType": "type-01",
+          "src": "/img/hero/14_hero-img.webp",
+          "width": 800,
+          "height": 1200
+        }
+      ],
+      "projects6": [
+        {
+          "id": 26,
+          "src": "/img/marquee/1200x1000_marquee-01.webp",
+          "title": "Inspiring ideas"
+        },
+        {
+          "id": 27,
+          "src": "/img/marquee/1200x1000_marquee-02.webp"
+        },
+        {
+          "id": 28,
+          "src": "/img/marquee/1200x1000_marquee-03.webp",
+          "title": "Creative minds"
+        },
+        {
+          "id": 29,
+          "src": "/img/marquee/1200x1000_marquee-04.webp"
+        }
+      ],
+      "projects7": [
+        {
+          "id": 30,
+          "src": "/img/marquee/1200x1000_marquee-05.webp",
+          "title": "Inspiring ideas"
+        },
+        {
+          "id": 31,
+          "src": "/img/marquee/1200x1000_marquee-06.webp"
+        },
+        {
+          "id": 32,
+          "src": "/img/marquee/1200x1000_marquee-07.webp",
+          "title": "Creative minds"
+        },
+        {
+          "id": 33,
+          "src": "/img/marquee/1200x1000_marquee-08.webp"
+        }
+      ],
+      "projects8": {
+        "title" : "  Portfolio archive",
+        "projects8":[
+        {
+          "id": 34,
+          "thumb": "/img/works/preview/600x730_prv-01.webp",
+          "image": "/img/works/preview/1200x800_prv-01.webp",
+          "title": "E-commerce website",
+          "tags": [
+            "UI/UX design",
+            "Development"
+          ],
+          "date": "2025"
+        },
+        {
+          "id": 35,
+          "thumb": "/img/works/preview/600x730_prv-02.webp",
+          "image": "/img/works/preview/1200x800_prv-02.webp",
+          "title": "NFT project branding",
+          "tags": [
+            "Brand identity",
+            "Style guides"
+          ],
+          "date": "2025"
+        },
+        {
+          "id": 36,
+          "thumb": "/img/works/preview/600x730_prv-03.webp",
+          "image": "/img/works/preview/1200x800_prv-03.webp",
+          "title": "VR vision project",
+          "tags": [
+            "Midjourney",
+            "AI model"
+          ],
+          "date": "2024"
+        },
+        {
+          "id": 37,
+          "thumb": "/img/works/preview/1200x800_prv-04.webp",
+          "image": "/img/works/preview/1200x800_prv-04.webp",
+          "title": "Illustrations set",
+          "tags": [
+            "Illustrations",
+            "Design"
+          ],
+          "date": "2024"
+        },
+        {
+          "id": 38,
+          "thumb": "/img/works/preview/600x730_prv-05.webp",
+          "image": "/img/works/preview/1200x800_prv-05.webp",
+          "title": "Blockchain app design",
+          "tags": [
+            "IU/UX design",
+            "Development"
+          ],
+          "date": "2024"
+        },
+        {
+          "id": 39,
+          "thumb": "/img/works/preview/600x730_prv-06.webp",
+          "image": "/img/works/preview/1200x800_prv-06.webp",
+          "title": "Rayo studio portfolio",
+          "tags": [
+            "IU/UX design",
+            "Development"
+          ],
+          "date": "2024"
+        }
+      ]
+      },
+      "projects9": [
+        {
+          "id": 1,
+          "wrapperClass": "mxd-services-stack__inner showcase-inner bg-base-opp",
+          "title": "Digital products",
+          "titleClass": "opposite",
+          "number": "/01",
+          "numberClass": "t-opp-muted",
+          "info": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+          "infoClass": "t-opposite",
+          "works": [
+            {
+              "id": 40,
+              "src": "/img/works/preview/800x400_prv-01.webp",
+              "tags": [
+                "Sora",
+                "AI",
+                "Editorial"
+              ]
+            },
+            {
+              "id": 41,
+              "src": "/img/works/preview/800x400_prv-02.webp",
+              "tags": [
+                "Frontend",
+                "Interactions",
+                "Web"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "wrapperClass": "mxd-services-stack__inner showcase-inner bg-accent",
+          "title": "Corporate websites",
+          "titleClass": "opposite",
+          "number": "/02",
+          "numberClass": "t-opp-brigth",
+          "info": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+          "infoClass": "t-opposite",
+          "works": [
+            {
+              "id": 42,
+              "src": "/img/works/preview/800x400_prv-03.webp",
+              "tags": [
+                "Frontend",
+                "Interactions",
+                "Web"
+              ]
+            },
+            {
+              "id": 43,
+              "src": "/img/works/preview/800x400_prv-04.webp",
+              "tags": [
+                "Brand",
+                "Illustrations",
+                "Web"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "wrapperClass": "mxd-services-stack__inner radius-dark showcase-inner bg-base-tint",
+          "title": "eCommerce",
+          "titleClass": "",
+          "number": "/03",
+          "numberClass": "t-muted-extra",
+          "info": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+          "infoClass": "",
+          "works": [
+            {
+              "id": 44,
+              "src": "/img/works/preview/800x400_prv-05.webp",
+              "tags": [
+                "Design",
+                "UI/UX",
+                "Android"
+              ]
+            },
+            {
+              "id": 45,
+              "src": "/img/works/preview/800x400_prv-06.webp",
+              "tags": [
+                "IU/UX design",
+                "Development"
+              ]
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "wrapperClass": "mxd-services-stack__inner showcase-inner bg-base-opp",
+          "title": "Brand identity",
+          "titleClass": "opposite",
+          "number": "/04",
+          "numberClass": "t-opp-muted",
+          "info": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+          "infoClass": "t-opposite",
+          "works": [
+            {
+              "id": 46,
+              "src": "/img/works/preview/800x400_prv-07.webp",
+              "tags": [
+                "Brand",
+                "Style guides"
+              ]
+            },
+            {
+              "id": 47,
+              "src": "/img/works/preview/800x400_prv-08.webp",
+              "tags": [
+                "Interactions",
+                "Web",
+                "Style guides"
+              ]
+            }
+          ]
+        }
+      ],
+      "projects10": {
+  "caseStudyStack": {
+    "stackName": "projects-stack",
+
+    "projects10": [
+      {
+        "id": 48,
+        "image": "/img/works/preview/1920x1080_prv-04.webp",
+        "tags": ["Brand", "Illustrations", "Web"],
+        "title": "Studio template",
+        "link": "/project-details/48"
+      },
+      {
+        "id": 49,
+        "image": "/img/works/preview/1920x1080_prv-01.webp",
+        "tags": ["Sora", "AI", "Editorial"],
+        "title": "AI Experiments",
+        "link": "/project-details/49"
+      },
+      {
+        "id": 50,
+        "image": "/img/works/preview/1920x1080_prv-05.webp",
+        "tags": ["Design", "UI/UX", "Android"],
+        "title": "Mobile app design",
+        "link": "/project-details/50"
+      }
+    ]
+  }
+}
+
+    },
+    "services-other-pages": [
+      {
+        "title": "Design",
+        "image": "/img/illustrations/360x440_list-01.webp",
+        "desc": "We create visually compelling designs that enhance user experience. From UI/UX design to stunning websites, mobile apps, and print materials, we make sure your brand\u2019s visuals resonate with your audience.",
+        "tags": [
+          "UI/UX",
+          "Web design",
+          "Applications",
+          "Print design",
+          "Packaging",
+          "Motion",
+          "3D models"
+        ]
+      },
+      {
+        "title": "Development",
+        "image": "/img/illustrations/360x440_list-02.webp",
+        "desc": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance.",
+        "tags": [
+          "Frontend",
+          "Interactions",
+          "Backend",
+          "E-Commerce",
+          "Mobile Apps",
+          "Maintenance",
+          "Support"
+        ]
+      },
+      {
+        "title": "Branding",
+        "image": "/img/illustrations/360x440_list-03.webp",
+        "desc": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity and consistent messaging across all touchpoints.",
+        "tags": [
+          "Brand strategy",
+          "Logo design",
+          "Guidelines",
+          "Visual identity",
+          "Rebranding"
+        ]
+      },
+      {
+        "title": "Marketing",
+        "image": "/img/illustrations/360x440_list-04.webp",
+        "desc": "We develop and execute tailored digital marketing strategies. SEO and content marketing, social media management and paid campaigns - we help you reach and engage your target audience effectively.",
+        "tags": [
+          "Strategy",
+          "Social media",
+          "SEO",
+          "Optimization",
+          "Email",
+          "Campaigns"
+        ]
+      }
+    ],
+    "education-freelancer-portfolio": [
+      {
+        "title": "Drawing Concentration",
+        "institution": "New York Academy of Art",
+        "institutionUrl": "#",
+        "desc": "Intensive drawing courses that present the fundamental principles of drawing.",
+        "year": "2015 - 2016"
+      },
+      {
+        "title": "UI/UX Design Specialization",
+        "institution": "California Institute of Arts",
+        "institutionUrl": "#",
+        "desc": "Research, design, and prototype effective, visually-driven websites and apps.",
+        "year": "2019 - 2021"
+      },
+      {
+        "title": "UI/UX Designer",
+        "institution": "Coursera",
+        "institutionUrl": "#",
+        "desc": "This course is about how to complete the design process from beginning to end.",
+        "year": "2022"
+      }
+    ],
+    "services-web-agency": [
+      {
+        "img": "/img/illustrations/800x800_pinned-image-01.webp",
+        "title": "Digital art and graphic design",
+        "tags": [
+          "UI/UX",
+          "Web design",
+          "Motion",
+          "3D models"
+        ],
+        "desc": "We create visually compelling designs that enhance user experience. We make sure your brand\u2019s visuals resonate with your audience."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-02.webp",
+        "title": "Creative development",
+        "tags": [
+          "Frontend",
+          "Interactions",
+          "Backend",
+          "E-Commerce"
+        ],
+        "desc": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-03.webp",
+        "title": "Brand identity",
+        "tags": [
+          "Brand strategy",
+          "Logo design",
+          "Guidelines",
+          "Visual identity",
+          "Rebranding"
+        ],
+        "desc": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity and consistent messaging across all touchpoints."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-04.webp",
+        "title": "Digital marketing solutions",
+        "tags": [
+          "Social media",
+          "SEO Optimization",
+          "Email",
+          "Campaigns"
+        ],
+        "desc": "SEO and content marketing, social media management and paid campaigns - we help you reach and engage your target audience effectively."
+      }
+    ],
+    "header" :{
+        "headerTitle":{
+            "headerTitleTop":"NITSAN ",
+            "headerTitleBottom":"AI"
+        },
+        "HeaderButton1": "Purchase",
+        "HeaderButton2": "Say Hello"
+    },
+   
+    "footer1": {
+    "footerContent":[
+       { "footerLogoTitleTop" : "NITSAN",
+        "footerLogoTitleBottom": "AI",
+        "footerTextContent":"  👋 New Rayo template is here! Showcase your projects, services and expertise with impact.",
+        "footerButton1": "Buy Now",
+        "footerButtonLink1": "https://themeforest.net/item/rayo-digital-agency-personal-portfolio-nextjs-template/60468451" ,
+        "footerButton2": "Demo",
+       "footerButtonLink2": "https://themeforest.net/item/rayo-digital-agency-personal-portfolio-nextjs-template/60468451"
+    }
+    ],
+    "footerNavData": [
+      {
+        "title": "Start pages",
+        "links": [
+          { "label": "Main home", "href": "/home-main" },
+          { "label": "Software development company", "href": "/home-software-development-company" },
+          { "label": "Freelancer portfolio", "href": "/home-freelancer-portfolio" },
+          { "label": "Digital agency", "href": "/home-digital-agency" },
+          { "label": "Creative design studio", "href": "/home-creative-design-studio" },
+          { "label": "Personal portfolio", "href": "/home-personal-portfolio" },
+          { "label": "Web agency", "href": "/home-web-agency" },
+          { "label": "Creative developer", "href": "/home-creative-developer" },
+          { "label": "Designer", "href": "/home-designer" }
+        ]
+      },
+      {
+        "groups": [
+          {
+            "title": "Portfolio",
+            "links": [
+              { "label": "Works simple", "href": "/works-simple" },
+              { "label": "Works masonry", "href": "/works-masonry" },
+              { "label": "Project details", "href": "/project-details" }
+            ]
+          },
+          {
+            "title": "Insights pages",
+            "links": [
+              { "label": "Blog standard", "href": "/blog-standard" },
+              { "label": "Blog creative", "href": "/blog-creative" },
+              { "label": "Single post", "href": "/blog-article" }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Inner pages",
+        "links": [
+          { "label": "About me", "href": "/about-me" },
+          { "label": "About us", "href": "/about-us" },
+          { "label": "Services", "href": "/services" },
+          { "label": "Our team", "href": "/team" },
+          { "label": "Pricing plans", "href": "/pricing" },
+          { "label": "Frequently asked questions", "href": "/faq" },
+          { "label": "404 error page", "href": "/404" },
+          { "label": "Contact", "href": "/contact" }
+        ]
+      }
+    ],
+    "footerTheme":{
+        
+        "footerThemeTitle" : " More by ib-themes:",
+        "footerThemeLinks" :[
+            {
+                "link": "https://themeforest.net/item/resonance-multipurpose-onemulti-page-react-nextjs-template/53612924",
+                "content" : " Resonance - Multipurpose Creative NextJs Templates"
+            },
+            {
+                "link": "https://themeforest.net/item/sandbox-modern-multipurpose-tailwind-css-template/51340309",
+                "content" : "  Sandbox - Tailwind CSS Modern & Multipurpose Template"
+            },
+            {
+                "link": "https://themeforest.net/item/gotrip-travel-tour-online-booking-nextjs-template/44047013",
+                "content" : "  GoTrip - Travel & Tour Agency React NextJs Template"
+            }
+        ]
+    }
+
+  },
+     "footer2":{
+       "footerNavData": [
+      {
+        "label": "Home",
+        "href": "/home-main"
+      },
+      {
+        "label": "About us",
+        "href": "/about-us"
+      },
+      {
+        "label": "Works",
+        "href": "/works-simple",
+        "counter": 10
+      },
+      {
+        "label": "Services",
+        "href": "/services"
+      },
+      {
+        "label": "Insights",
+        "href": "/blog-standard"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      }
+    ],
+    "footerButton":{
+         "footerButtonText1": "Privacy Policy",
+         "footerButtonLink1" :"#",
+         "footerButtonText2": "Terms &amp; conditions",
+         "footerButtonLink2" :"#"
+
+    },
+    "footerInfo": [
+     {   "email" :" hello@rayostudio.com",
+     "contact" : "+1 212-708-9400",
+     "form-title": "Subscribe to our insights:",
+     "form-success" : " Done! Thanks for subscribing.",
+     "form-reject" : "Ooops! Something went wrong. Please try again later."
+    }
+    ],
+     "menu1":{
+        "menuTitle" : "SOLUTIONS",
+        "menus": [
+      {
+        "title": " AI & ML",
+        "url": "/ai-ml"
+      },
+      {
+        "title": "Product Development",
+        "url": "/product"
+      },
+      {
+        "title": "Staff Augmentation",
+        "url": "/staff"
+      },
+      {
+        "title": "Web & Mobile Development",
+        "url": "/web-mobile"
+      },
+      {
+        "title": " Cloud & Support",
+        "url": "/cloud"
+      },
+      {
+        "title": " Software Consultation",
+        "url": "/consultation"
+      }
+    ]
+    },
+     "menu2":{
+        "menuTitle" : "COMPANY",
+        "menus": [
+      {
+        "title": "About",
+        "url": "/about-us"
+      },
+      {
+        "title": "Blog",
+        "url": "/blog"
+      },
+      {
+        "title": " We're Hiring",
+        "url": "https://www.instagram.com/"
+      },
+      {
+        "title": " Case Studies",
+        "url": "/case-study"
+      },
+      {
+        "title": " Contact Us",
+        "url": "/contact"
+      }
+    ]
+    },
+     "menu3":{
+        "menuTitle" : "Meta",
+        "menus": [
+      {
+        "title": " Terms of Service",
+        "url": "https://dribbble.com/"
+      },
+      {
+        "title": " Privacy Policy",
+        "url": "https://www.behance.net/"
+      },
+      {
+        "title": "Cookie Policy",
+        "url": "https://www.instagram.com/"
+      },
+      {
+        "title": "Support",
+        "url": "https://github.com/"
+      },
+      {
+        "title": "Sitemap",
+        "url": "https://codepen.io/"
+      }
+    ],
+    "menuInfo":[
+        {"footerTitle" : "© 2025 NITSAN. All rights reserved.",
+        "footerLink" : "#"}
+    ]
+    }
+     
+   
+  },
+
+      "preview": {
+        "previewHero": {
+        "previewHeroTopGroup": [
+            {
+            "previewHeroTopGroup-item1": "Empowering  ",
+            "previewHeroTopGroup-marquee": " Intelligent ",
+            "previewHeroTopGroup-item2": "  Growth "
+            }
+        ],
+        "previewHeroBottomGroup": [
+            {
+            "previewHeroBottomGroup-text": "Elevate your digital presence with Rayo - dynamic and stylish template designed for creative agencies and personal brands.\nThis is the next line."
+            }
+        ]
+        },
+        "PreviewFeature1": {
+        "description": "Fully responsive and pixel-perfect Rayo looks great on any device. Your site stays stunning and functional everywhere.",
+        "devices": [
+            { "icon": "ph-device-mobile-camera", "label": "Smartphone" },
+            { "icon": "ph-device-tablet-camera", "label": "Tablet" },
+            { "icon": "ph-laptop", "label": "Laptop" },
+            { "icon": "ph-desktop", "label": "Desktop" }
+        ],
+        "image": "/img/demo/01_resp-img.webp"
+        },
+        "PreviewFeature2": {
+        "title": "Top-notch features, built for you",
+        "tags": ["Animations", "Plugins", "Services"],
+        "description": "Rayo template packed with smooth animations, modern design tools and clean code. It's a flexible, future-proof template that's easy to customize and a joy to use.",
+        "image": {
+            "src": "/img/demo/01_fea-img.webp",
+            "alt": "Rayo Image",
+            "width": 1614,
+            "height": 800
+        }
+        },
+        "prewiewPageMarquee": {
+        "marqueeTop": [
+            "/img/demo/components/sec-01.webp",
+            "/img/demo/components/sec-02.webp",
+            "/img/demo/components/sec-03.webp",
+            "/img/demo/components/sec-04.webp",
+            "/img/demo/components/sec-05.webp",
+            "/img/demo/components/sec-06.webp",
+            "/img/demo/components/sec-07.webp",
+            "/img/demo/components/sec-08.webp"
+        ],
+        "objects": [
+            { "src": "/img/demo/01_comp-img.webp", "class": "mxd-move-slow" },
+            { "src": "/img/demo/01_comp-img.webp", "class": "mxd-rotate-slow" },
+            { "src": "/img/demo/01_comp-img.webp", "class": "mxd-move" }
+        ],
+        "title": "Functional \n components",
+        "marqueeBottom": [
+            "/img/demo/components/sec-09.webp",
+            "/img/demo/components/sec-10.webp",
+            "/img/demo/components/sec-11.webp",
+            "/img/demo/components/sec-04.webp",
+            "/img/demo/components/sec-14.webp",
+            "/img/demo/components/sec-06.webp",
+            "/img/demo/components/sec-15.webp",
+            "/img/demo/components/sec-08.webp"
+        ]
+        },
+        "marqueeSection1": {
+        "items": [
+            "Designer",
+            "Developer",
+            "Freelancer",
+            "Digital Agency",
+            "Creative Studio"
+        ],
+
+        "icon": {
+            "svg": true
+        }
+        },
+        "marqueeSection2": {
+        "items": [
+            { "text": "Inner Pages" },
+            { "text": "Inner Pages" },
+            { "text": "Inner Pages" },
+            { "text": "Inner Pages" },
+            { "text": "Inner Pages" }
+        ]
+        },
+        "featureCards": [
+        {
+        "col": "col-12 col-xl-8",
+        "itemClass": "features-item-01",
+        "innerClass": "justify-between bg-base-tint radius-l padding-4",
+        "gradientEnabled": true,
+        "gradientId": "purple-radial-grad",
+        "gradientColor": "#9f8be7",
+        "image": {
+            "src": "/img/demo/02_fea-img.webp",
+            "alt": "Rayo Illustration",
+            "width": 1000,
+            "height": 843
+        },
+        "title": "Dynamic & stylish design",
+        "tags": ["Design", "Layouts", "Visuals"],
+        "description": "Modern, eye-catching layouts crafted to make your brand stand out and keep visitors engaged."
+        },
+
+        {
+        "col": "col-12 col-xl-4",
+        "itemClass": "features-item-02",
+        "innerClass": "justify-end bg-accent radius-l padding-4",
+        "gradientEnabled": false,
+        "image": {
+            "src": "/img/demo/03_fea-img.webp",
+            "alt": "Rayo Illustration",
+            "width": 800,
+            "height": 513
+        },
+        "title": "Dark / light mode",
+        "titleOpposite": true,
+        "tags": ["Theme Choice", "Interactive"],
+        "tagsOpposite": true,
+        "description": "Switch effortlessly between light and dark modes for a user-friendly experience.",
+        "descriptionOpposite": true
+        },
+
+        {
+        "col": "col-12 col-xl-4",
+        "itemClass": "features-item-03",
+        "innerClass": "bg-additional radius-l padding-4",
+        "gradientEnabled": false,
+        "image": {
+            "src": "/img/demo/04_fea-img.webp",
+            "alt": "Illustration",
+            "width": 800,
+            "height": 482
+        },
+        "title": "Easy to customize",
+        "tags": ["Flexible", "Fast", "User-friendly"],
+        "description": "Adapt every detail to fit your vision — no fuss, just simple, clear editing.",
+        "textBright": true
+        },
+
+        {
+        "col": "col-12 col-xl-4",
+        "itemClass": "features-item-04",
+        "innerClass": "bg-base-opp radius-l padding-4",
+        "titleOpposite": true,
+        "tagsOpposite": true,
+        "descriptionOpposite": true,
+        "gradientEnabled": false,
+        "image": {
+            "src": "/img/demo/06_fea-img.webp",
+            "alt": "Illustration",
+            "width": 800,
+            "height": 500
+        },
+        "title": "GSAP-powered animations",
+        "tags": ["Motion", "Smooth", "Interactive"],
+        "description": "Adding unique movement, scroll magic, and creative depth to your pages."
+        },
+
+        {
+        "col": "col-12 col-xl-4",
+        "itemClass": "features-item-05",
+        "innerClass": "justify-end bg-base-tint radius-l padding-4",
+        "gradientEnabled": true,
+        "gradientId": "purple-radial-gradient",
+        "gradientColor": "#9f8be7",
+        "title": "Code excellence",
+        "tags": ["Clean", "Reliable", "Validated"],
+        "description": "Built with clean, well-structured code that’s fast, secure, and easy to maintain.",
+        "image": {
+            "src": "/img/demo/05_fea-img.webp",
+            "alt": "Illustration",
+            "width": 700,
+            "height": 732
+        }
+        }
+        ],
+        "cta": {
+            "title": "Show your creativity and get noticed today!",
+            "buttonText": "Buy Now",
+            "buttonLink": "https://themeforest.net/user/ib-themes/portfolio",
+            "buttonIcon": "ph-bold ph-shopping-cart-simple"
+        },
+    "servicesStack": [
+      {
+        "title": "Digital art and graphic design",
+        "tags": ["UI/UX", "Web design", "Packaging", "Motion", "3D models"],
+        "desc": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+        "link": "/services",
+        "images": {
+          "small": "/img/services/800x800_ser-01.webp",
+          "large": "/img/services/1000x1000_ser-01.webp"
+        }
+      },
+      {
+        "title": "Creative<br/>development",
+        "tags": ["Frontend", "Interactions", "Backend", "Mobile Apps"],
+        "desc": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance.",
+        "link": "/services",
+        "images": {
+          "small": "/img/services/800x800_ser-02.webp",
+          "large": "/img/services/1000x1000_ser-02.webp"
+        }
+      },
+      {
+        "title": "Brand<br/>identity",
+        "tags": ["Brand strategy", "Logo design", "Guidelines", "Rebranding"],
+        "desc": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity and consistent messaging across all touchpoints.",
+        "link": "/services",
+        "images": {
+          "small": "/img/services/800x800_ser-03.webp",
+          "large": "/img/services/1000x1000_ser-03.webp"
+        }
+      },
+      {
+        "title": "Digital marketing<br/>solutions",
+        "tags": ["Strategy", "Social media", "SEO", "Optimization", "Campaigns"],
+        "desc": "SEO and content marketing, social media management and paid campaigns - we help you reach and engage your target audience effectively.",
+        "link": "/services",
+        "images": {
+          "small": "/img/services/800x800_ser-04.webp",
+          "large": "/img/services/1000x1000_ser-04.webp"
+        }
+      }
+    ],
+    "servicesCardsSmall": [
+      {
+        "title": "AI-powered<br/>solutions",
+        "tags": ["UI/UX", "Web design", "Packaging", "Motion", "3D models"],
+        "desc": "Intelligent automation, predictive analytics, and machine learning-driven applications.",
+        "image": { "src": "/img/illustrations/1200x1200_service-image-01.webp", "width": 910, "height": 1200 }
+      },
+      {
+        "title": "Fintech",
+        "tags": ["Frontend", "Interactions", "Backend"],
+        "desc": "Innovative financial solutions, from digital banking to payment processing and investment platforms.",
+        "image": { "src": "/img/illustrations/1200x1200_service-image-02.webp", "width": 1200, "height": 1200 }
+      },
+      {
+        "title": "Blockchain",
+        "tags": ["Strategy", "Social media", "SEO"],
+        "desc": "Secure and transparent decentralized applications, including smart contracts and cryptocurrencies.",
+        "image": { "src": "/img/illustrations/1200x1200_service-image-03.webp", "width": 1200, "height": 1200 }
+      },
+      {
+        "title": "Cybersecurity",
+        "tags": ["Brand strategy", "Logo design", "Guidelines"],
+        "desc": "Advanced threat detection, encryption solutions, and secure data protection.",
+        "image": { "src": "/img/illustrations/1200x1200_service-image-04.webp", "width": 891, "height": 1200 }
+      },
+      {
+        "title": "Gaming",
+        "tags": ["E-Commerce", "Maintenance", "Support"],
+        "desc": "Immersive experiences, multiplayer platforms, and game engine development.",
+        "image": { "src": "/img/illustrations/1200x1200_service-image-05.webp", "width": 1200, "height": 996 }
+      }
+    ],
+    "projectsPinnedTexts": {
+        "title": "Case studies",
+        "description": "Explore a selection of projects blending<br/>creativity with practical design",
+        "buttonText": "All Works",
+        "buttonHref": "/works-simple"
+    },
+    "marquee": {
+      "items": [
+        "Design",
+        "Development",
+        "Branding",
+        "eCommerce",
+        "Mobile Apps"
+      ]
+    },
+    "pricingHeadline": {
+      "label": "Pricing",
+      "title": "Creative solutions made simple",
+      "description": ""
+    },
+    "faqsHeader": {
+      "label": "FAQ",
+      "title": "Everything you need to know",
+      "description": "Have questions? We've got the answers! Here, you'll find clear and concise information about our services, process, and what to expect when working with us. If you need more details, feel free to reach out!"
+    },
+    "faqsParallax": {
+      "circleText": "Let’s start new project * Let’s start new project *"
+    },
+    "partners": [
+      {
+        "src": "/img/brands/mozilla.svg"
+      },
+      {
+        "src": "/img/brands/envato.svg"
+      },
+      {
+        "src": "/img/brands/behance.svg"
+      },
+      {
+        "src": "/img/brands/dribbble.svg"
+      },
+      {
+        "src": "/img/brands/codeninja.svg"
+      },
+      {
+        "src": "/img/brands/udemy.svg"
+      },
+      {
+        "src": "/img/brands/angular.svg"
+      },
+      {
+        "src": "/img/brands/ghostgaming.svg"
+      }
+    ],
+    "testimonialsSection": {
+      "title": "What our clients say",
+      "description": "We're more than just executors — we're your creative partners. Don't just take our word for it, see what clients have to say about working with us.",
+      "externalLink": "https://clutch.co/"
+    }
+
+
+
+      },
+  "consultation": {
+    "hero":{
+      "sectionName": "Studio",
+    "headlineTitle": "Driven by ideas and innovation",
+
+    "valuesLeftList": [
+      "Innovations",
+      "Excellence",
+      "Creativity",
+      "Experience",
+      "Competence",
+      "Passion"
+    ],
+
+    "valuesRightList": [
+      "Web design",
+      "UI/UX",
+      "App design",
+      "Development",
+      "Branding",
+      "Motion"
+    ],
+
+    "description": "We are a creative digital agency specializing in innovative design and cutting-edge development. We help businesses stand out and thrive in the modern landscape."
+
+
+    }
+  },
+  "aboutUs":{
+  
+    "hero": {
+      "sectionTag": "About me",
+
+  "typedTexts": [
+    "UI/UX Designer",
+    "3D Artist",
+    "Illustrator"
+  ],
+
+  "titlePrefixEmoji": "👋",
+
+  "description": "Hey! I am Alex Walker. I'm passionate about crafting designs that tell stories, spark emotions, and make an impact. Whether I'm crafting digital experiences or creating illustrations, I pour creativity and precision into every detail."
+},
+"services": [
+    {
+      "bgClass": "bg-base-opp",
+      "buttonClass": "btn btn-round btn-round-large btn-additional slide-right-up anim-no-delay",
+      "title": "Digital art and graphic design",
+      "tags": ["UI/UX", "Web design", "Packaging", "Motion", "3D models"],
+      "description": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+      "imageSmall": "/img/services/800x800_ser-01.webp",
+      "imageLarge": "/img/services/1000x1000_ser-01.webp",
+      "titleClass": "opposite",
+      "descClass": "t-small-mobile t-opposite",
+      "tagClass": "tag tag-default tag-outline-opposite"
+    },
+    {
+      "bgClass": "bg-accent",
+      "buttonClass": "btn btn-round btn-round-large btn-base slide-right-up anim-no-delay",
+      "title": "Creative<br/>development",
+      "tags": ["Frontend", "Interactions", "Backend", "Mobile Apps"],
+      "description": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance.",
+      "imageSmall": "/img/services/800x800_ser-02.webp",
+      "imageLarge": "/img/services/1000x1000_ser-02.webp",
+      "titleClass": "opposite",
+      "descClass": "t-small-mobile t-opposite",
+      "tagClass": "tag tag-default tag-outline-opposite"
+    },
+    {
+      "bgClass": "bg-base-tint radius-dark",
+      "buttonClass": "btn btn-round btn-round-large btn-opposite slide-right-up anim-no-delay",
+      "title": "Brand<br/>identity",
+      "tags": ["Brand strategy", "Logo design", "Guidelines", "Rebranding"],
+      "description": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity and consistent messaging across all touchpoints.",
+      "imageSmall": "/img/services/800x800_ser-03.webp",
+      "imageLarge": "/img/services/1000x1000_ser-03.webp",
+      "descClass": "t-small-mobile",
+      "tagClass": "tag tag-default tag-outline"
+    },
+    {
+      "bgClass": "bg-base-opp",
+      "buttonClass": "btn btn-round btn-round-large btn-additional slide-right-up anim-no-delay",
+      "title": "Digital marketing<br/>solutions",
+      "tags": ["Strategy", "Social media", "SEO", "Optimization", "Campaigns"],
+      "description": "SEO and content marketing, social media management and paid campaigns - we help you reach and engage your target audience effectively.",
+      "imageSmall": "/img/services/800x800_ser-04.webp",
+      "imageLarge": "/img/services/1000x1000_ser-04.webp",
+      "titleClass": "opposite",
+      "descClass": "t-small-mobile t-opposite",
+      "tagClass": "tag tag-default tag-outline-opposite"
+    }
+  ]
+    },
+  "contactUs":{
+      
+      "pageTitleData":{
+         "sectionName": "Contact",
+  "headlineTitle": ["Let's talk", "about your project!"],
+  "email": "hello@rayo.com",
+  "emailSubject": "Message from your site",
+  "description": "Have questions? We've got the answers! Here, you'll find clear and concise information about our services, process, and what to expect when working with us. If you need more details, feel free to reach out!"
+
+      },
+       "contactForm": {
+    "pageTitleData": {
+      "sectionName": "Contact",
+      "headlineTitle": ["Let's talk", "about your project!"],
+      "email": "hello@rayo.com",
+      "emailSubject": "Message from your site",
+      "description": "Have questions? We've got the answers! Here, you'll find clear and concise information about our services, process, and what to expect when working with us."
+    },
+
+    "formData": {
+      "hiddenFields": {
+        "project_name": "Rayo Template",
+        "admin_email": "support@mixdesign.dev",
+        "form_subject": "Contact Form Message"
+      },
+
+      "formFields": {
+        "Name": {
+          "placeholder": "Your name*",
+          "type": "text",
+          "required": true,
+          "colClass": "col-12 col-md-6"
+        },
+        "Company": {
+          "placeholder": "Company name",
+          "type": "text",
+          "required": false,
+          "colClass": "col-12 col-md-6"
+        },
+        "E-mail": {
+          "placeholder": "Email*",
+          "type": "email",
+          "required": true,
+          "colClass": "col-12 col-md-6"
+        },
+        "Phone": {
+          "placeholder": "Phone",
+          "type": "tel",
+          "required": false,
+          "colClass": "col-12 col-md-6"
+        },
+        "Message": {
+          "placeholder": "A few words about your project*",
+          "type": "textarea",
+          "required": true,
+          "colClass": "col-12"
+        }
+      },
+
+      "button": {
+        "text": "Submit",
+        "class": "btn btn-anim btn-default btn-large btn-opposite slide-right-up"
+      }
+    }
+      },
+    "marqueContent":{
+      "text": "Connect"
+      },
+      "locations": {
+      "sectionTitle": "Welcome to our office",
+      "description": "Inspiring ideas, creative insights, and the latest in design and tech. Fueling innovation for your digital journey.",
+      "offices": [
+        {
+          "name": "New York",
+          "address": "11 West 53 Street, New York, NY, 10019",
+          "mapLink": "https://goo.gl/maps/nWXKpGaDPuyH6gxRA",
+          "phone": "+1 212-708-9400",
+          "email": "hello@rayo.com"
+        },
+        {
+          "name": "Oakland",
+          "address": "3400 Broadway, Oakland, CA, 94611",
+          "mapLink": "https://goo.gl/maps/xap5o3MZBuC6DFHz8",
+          "phone": "+1 510-457-0211",
+          "email": "hello@rayo.com"
+        }
+      ]
+    },
+     "partners": [
+    {
+      "name": "Mozilla",
+      "logo": "/img/brands/mozilla.svg",
+      "width": 984,
+      "height": 235,
+      "link": "#"
+    },
+    {
+      "name": "Envato",
+      "logo": "/img/brands/envato.svg",
+      "width": 700,
+      "height": 169,
+      "link": "#"
+    },
+    {
+      "name": "Behance",
+      "logo": "/img/brands/behance.svg",
+      "width": 2499,
+      "height": 464,
+      "link": "#"
+    },
+    {
+      "name": "Dribbble",
+      "logo": "/img/brands/dribbble.svg",
+      "width": 917,
+      "height": 258,
+      "link": "#"
+    },
+    {
+      "name": "Code Ninja",
+      "logo": "/img/brands/codeninja.svg",
+      "width": 223,
+      "height": 34,
+      "link": "#"
+    },
+    {
+      "name": "Udemy",
+      "logo": "/img/brands/udemy.svg",
+      "width": 631,
+      "height": 237,
+      "link": "#"
+    },
+    {
+      "name": "Angular",
+      "logo": "/img/brands/angular.svg",
+      "width": 700,
+      "height": 169,
+      "link": "#"
+    },
+    {
+      "name": "Ghost Gaming",
+      "logo": "/img/brands/ghostgaming.svg",
+      "width": 2854,
+      "height": 1199,
+      "link": "#"
+    }
+  ]
+      
+
+    },
+    "socials":{
+        "socialTitle" : "Ecosystem",
+        "socials": [
+      {
+        "title": "Dribbble",
+        "url": "https://dribbble.com/"
+      },
+      {
+        "title": "Behance",
+        "url": "https://www.behance.net/"
+      },
+      {
+        "title": "Instagram",
+        "url": "https://www.instagram.com/"
+      },
+      {
+        "title": "Github",
+        "url": "https://github.com/"
+      },
+      {
+        "title": "Codepen",
+        "url": "https://codepen.io/"
+      },
+      {
+        "title": "Figma Community",
+        "url": "https://www.figma.com/community"
+      }
+    ],
+    "socialFooter":[
+        {"footerTitle" : "ib themes",
+        "footerLink" : "https://themeforest.net/user/ib-themes/portfolio",
+        "footerYear" : "2025"}
+    ]
+    },
+  "cta": {
+    "title": "Let's talk about your project!",
+    "icon": {
+      "src": "/img/icons/300x300_obj-cta-01.webp",
+      "width": 300,
+      "height": 300,
+      "alt": "Icon"
+    },
+    "images": [
+      {
+        "src": "/img/illustrations/cta-img-01.webp",
+        "width": 800,
+        "height": 912,
+        "alt": "CTA Image 1",
+        "className": "promo-image promo-image-1"
+      },
+      {
+        "src": "/img/illustrations/cta-img-02.webp",
+        "width": 600,
+        "height": 601,
+        "alt": "CTA Image 2",
+        "className": "promo-image promo-image-2"
+      }
+    ],
+    "button": {
+      "text": "Contact Me",
+      "href": "/contact",
+      "class": "btn btn-anim btn-default btn-large btn-additional slide-right-up",
+      "iconClass": "ph-bold ph-arrow-up-right"
+    }
+  },
+  
+  "notFoundPage": {
+    "floatingImage": {
+      "src": "/img/backgrounds/900x900_err-01.webp",
+      "width": 900,
+      "height": 900,
+      "alt": "Floating Background"
+    },
+    "errorContent": {
+      "title": "This page doesn't exist",
+      "subtitle": "Sorry.",
+      "button": {
+        "text": "Let's Go Home",
+        "href": "/",
+        "class": "btn btn-anim btn-default btn-accent slide-right-up",
+        "iconClass": "ph-bold ph-arrow-up-right"
+      }
+    },
+    "marquee": {
+      "items": [
+        {
+          "text": "404",
+          "svg": true
+        },
+        {
+          "text": "404",
+          "svg": true
+        },
+        {
+          "text": "404",
+          "svg": true
+        }
+      ],
+      "className": "marquee marquee-error marquee-right--gsap bright"
+    }
+  },
+  "teamPage":{
+    
+  "heroSection": {
+    "subtitle": {
+      "icon": "/img/icons/subtitle-icon.svg",
+      "text": "Our team"
+    },
+    "title": "Talented minds shaping our vision",
+    "description": "Our team is a blend of creative thinkers, problem-solvers, and tech enthusiasts dedicated to bringing your ideas to life. Together, we craft innovative solutions that inspire and deliver results.",
+    "cta": {
+      "href": "/contact",
+      "rotationText": "Let's start new project * Let's start new project *",
+      "image": {
+        "src": "/img/icons/300x300_obj-btn-02.webp",
+        "width": 300,
+        "height": 300,
+        "alt": "Object"
+      }
+    },
+    "parallaxDivider": {
+      "className": "divider-image-7"
+    }
+  },
+   "marqueeSlider": {
+    "className": "marquee marquee-right--gsap muted-extra",
+    "items": [
+      {
+        "text": "Talents",
+        "svg": true
+      },
+      {
+        "text": "Dreamers",
+        "svg": true
+      },
+      {
+        "text": "Thinkers",
+        "svg": true
+      },
+      {
+        "text": "Creatives",
+        "svg": true
+      }
+    ]
+  },
+   "teamSection": {
+    "title": "Dreamers and doers",
+    "description": "Creatives and strategists united by a passion for crafting impactful digital solutions.",
+    "button": {
+      "text": "View Works",
+      "href": "/works-simple",
+      "class": "btn btn-anim btn-default btn-outline slide-right-up",
+      "iconClass": "ph-bold ph-arrow-up-right"
+    },
+    "teamMembers": [
+      {
+        "id": 1,
+        "name": "Alex Berry",
+        "position": "Frontend Developer",
+        "image": {
+          "src": "/img/team/800x920_team-01.webp",
+          "alt": "Alex Berry",
+          "width": 800,
+          "height": 920
+        },
+        "socials": [
+          { "name": "Linkedin", "url": "https://www.linkedin.com/" },
+          { "name": "Behance", "url": "https://www.behance.net/" }
+        ],
+        "layout": {
+          "classes": "col-12 col-md-6 mxd-team-cards__item mxd-grid-item no-margin-desktop padding-bottom-desktop animate-card-3"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Helen Lemon",
+        "position": "Creative Designer",
+        "image": {
+          "src": "/img/team/800x920_team-04.webp",
+          "alt": "Helen Lemon",
+          "width": 800,
+          "height": 920
+        },
+        "socials": [
+          { "name": "Linkedin", "url": "https://www.linkedin.com/" },
+          { "name": "Figma Community", "url": "https://www.figma.com/" }
+        ],
+        "layout": {
+          "classes": "col-12 col-md-6 mxd-team-cards__item mxd-grid-item no-margin-desktop padding-bottom-mobile padding-bottom-desktop animate-card-3"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Sarah Olive",
+        "position": "Digital Marketing Strategist",
+        "image": {
+          "src": "/img/team/800x920_team-02.webp",
+          "alt": "Sarah Olive",
+          "width": 800,
+          "height": 920
+        },
+        "socials": [
+          { "name": "Linkedin", "url": "https://www.linkedin.com/" },
+          { "name": "Behance", "url": "https://www.behance.net/" }
+        ],
+        "layout": { "classes": "col-12 col-md-6 mxd-team-cards__item mxd-grid-item animate-card-3" }
+      },
+      {
+        "id": 4,
+        "name": "Johanna Cherry",
+        "position": "Brand Identity Expert",
+        "image": {
+          "src": "/img/team/800x920_team-03.webp",
+          "alt": "Johanna Cherry",
+          "width": 800,
+          "height": 920
+        },
+        "socials": [
+          { "name": "Linkedin", "url": "https://www.linkedin.com/" },
+          { "name": "Dribbble", "url": "https://dribbble.com/" }
+        ],
+        "layout": { "classes": "col-12 col-md-6 mxd-team-cards__item mxd-grid-item padding-bottom-mobile animate-card-3" }
+      }
+    ],
+    "careerBlock": {
+      "title": "Maybe you?",
+      "subtitle": "Become a part of our team",
+      "image": {
+        "src": "/img/illustrations/800x800_card-image-04.webp",
+        "alt": "Career Image",
+        "width": 800,
+        "height": 800
+      },
+      "href": "/contact",
+      "layoutClasses": "col-12 col-xl-4 mxd-team-cards__item mxd-grid-item animate-card-3"
+    }
+  },
+   "cultureSection": {
+    "title": "Our culture and values",
+    "keywords": ["Imagination", "Strategy", "Action"],
+    "button": {
+      "text": "Testimonials",
+      "href": "#testimonials",
+      "class": "btn btn-anim btn-default btn-outline opposite slide-right-down",
+      "iconClass": "ph-bold ph-arrow-down-right"
+    },
+    "description": "We thrive on collaboration, creativity, and innovation. Our team values open communication, continuous learning, and delivering results that make a real impact.",
+    "images": [
+      {
+        "className": "image-large-desktop image-values-1 parallax-img-small",
+        "parallax": true
+      },
+      {
+        "className": "image-small-desktop image-values-2 parallax-img-small",
+        "parallax": true
+      }
+    ],
+    "marqueeText": "Clients Approve",
+    "marqueeCount": 4
+  },
+  "testimonials": [
+    {
+      "author": "John Lemon",
+      "avatar": "/img/avatars/300x300_ava-03.webp",
+      "position": "Brand Manager in",
+      "company": "Instant Design",
+      "rating": 5,
+      "text": "Working with Alex was an absolute pleasure! He took the time to understand our business needs and translated them into a beautifully designed, user-friendly website.",
+      "projectLink": "#",
+      "illustration": "/img/illustrations/1400x1400_values-01.webp"
+    },
+    {
+      "author": "Alex Tomato",
+      "avatar": "/img/avatars/300x300_ava-04.webp",
+      "position": "Brand Manager in",
+      "company": "Instant Design",
+      "rating": 5,
+      "text": "Amazing job on our website! Alex understood exactly what we needed and made it look great and easy to use.",
+      "projectLink": "#",
+      "illustration": "/img/illustrations/1400x1400_values-02.webp"
+    }
+  ],
+  "blog":{
+     "section": {
+    "title": "Recent insights",
+    "desc": "Inspiring ideas, creative insights, and the latest in design and tech. Fueling innovation for your digital journey.",
+    "button": {
+      "text": "All Articles",
+      "href": "/blog-standard",
+      "class": "btn btn-anim btn-default btn-outline slide-right-up",
+      "iconClass": "ph-bold ph-arrow-up-right"
+    }
+  },
+  "blogs": [
+    {
+      "id": 17,
+      "imageClass": "blog-preview-image-1",
+      "tags": ["Concept", "Editorial"],
+      "imgSrc": "/img/blog/preview/1000x1250_prv-01.webp",
+      "title": { "before": "Frontend innovations", "after": " and user journeys" },
+      "link": "/blog-article"
+    },
+    {
+      "id": 18,
+      "imageClass": "blog-preview-image-2",
+      "tags": ["UI/UX", "Development"],
+      "imgSrc": "/img/blog/preview/1000x1250_prv-02.webp",
+      "title": { "before": "Branding in creating", "highlight": "digital experiences" },
+      "link": "/blog-article"
+    },
+    {
+      "id": 19,
+      "imageClass": "blog-preview-image-3",
+      "tags": ["News", "AI"],
+      "title": {
+        "before": "Elevating ",
+        "highlight": "digital workshops",
+        "after": " with engaging design"
+      },
+      "imgSrc": "/img/blog/preview/1000x1250_prv-03.webp",
+      "link": "/blog-article"
+    }
+  ]
+  }
+},
+"caseStudyDetails":{
+  "hero":{
+  "button": {
+    "text": "Project Page",
+    "href": "#",
+    "class": "btn btn-anim btn-line-small btn-muted slide-right-up",
+    "iconClass": "ph ph-arrow-up-right"
+  },
+  "title": "Studio template",
+  "description": "Inspiring ideas, creative insights, and the latest in design and tech. Fueling innovation for your digital journey.",
+  "dataList": [
+    {
+      "name": "Client",
+      "content": "Mix Design"
+    },
+    {
+      "name": "Services",
+      "content": "Web development"
+    },
+    {
+      "name": "Industries",
+      "content": "HTML template"
+    },
+    {
+      "name": "Date",
+      "content": "January 2025"
+    }
+  ],
+  "tags": ["Web design", "UI/UX design", "Development", "Branding"]
+},
+  "challanges":{
+  "title": "Challenge",
+
+  "paragraph1": "Donec maximus lorem quam, a aliquam erat aliquam quis. Sed accumsan sagittis condimentum. Proin eu nulla.",
+  "paragraph2": "Nunc vel ligula tincidunt, fermentum velit ac, sodales eros. Vivamus ac leo in arcu accumsan condimentum. Nullam ac est quis dolor scelerisque interdum in at risus. Pellentesque mattis est vel maximus posuere. Integer tristique ipsum velit, vitae gravida purus laoreet.",
+
+  "images": [
+    {
+      "src": "/img/works/1200x1200_prj-details-01.webp",
+      "width": 1200,
+      "height": 1200,
+      "class": "col-12 col-xl-5",
+      "innerClass": "mxd-project-cards__inner align-end bg-accent radius-m"
+    },
+    {
+      "src": "/img/works/1400x1000_prj-details-01.webp",
+      "width": 1400,
+      "height": 1000,
+      "class": "col-12 col-xl-7",
+      "innerClass": "mxd-project-cards__inner align-end bg-base-tint radius-m"
+    },
+    {
+      "src": "/img/works/1400x1000_prj-details-02.webp",
+      "width": 1400,
+      "height": 1000,
+      "class": "col-12 col-xl-7",
+      "innerClass": "mxd-project-cards__inner bg-base-tint radius-m"
+    },
+    {
+      "src": "/img/works/1200x1200_prj-details-02.webp",
+      "width": 1200,
+      "height": 1200,
+      "class": "col-12 col-xl-5",
+      "innerClass": "mxd-project-cards__inner bg-base-tint radius-m"
+    }
+  ]
+},
+"solutions":{
+ 
+    "sectionName": "Solution",
+    "headlineTitle": ["Solution Overview", "Detailed Explanation"],
+    "description": [
+      "Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque ut arcu pulvinar, rhoncus libero id, lobortis metus. Morbi tristique dolor sit amet turpis faucibus malesuada.",
+      "Morbi non ipsum vel risus scelerisque sagittis nec a ipsum. Nulla odio neque, feugiat a arcu et, tristique cursus diam. Duis consectetur massa nibh, ut rhoncus nibh vestibulum in. Sed imperdiet metus sed arcu efficitur posuere."
+    ],
+    "imageClass": "prj-details-img-02"
+  
+},
+"feedback":{
+
+
+      "sectionName": {
+        "line1": "Client's",
+        "line2": "feedback"
+      },
+      "feedbackText": "Working with Rayo team was an absolute pleasure! They took the time to understand our business needs and translated them into a beautifully designed, user-friendly website. The team's attention to detail, creativity, and technical expertise exceeded our expectations. We've received so much positive feedback from our customers already.",
+      "clientName": "Lea Tomato",
+      "clientPosition": "Senior designer",
+      "clientCompany": "The Way",
+      "clientCompanyLink": "#"
+    
+  
+},
+"nextPrevNavigation":{
+
+      "prev": {
+        "buttonLabel": "Prev",
+        "title": "Mobile app design",
+        "url": "/project-details/mobile-app"
+      },
+      "next": {
+        "buttonLabel": "Next",
+        "title": "AI experiments",
+        "url": "/project-details/ai-experiments"
+      }
+   
+}
+
+
+
+
+
+},
+"caseStudy":{
+    "marqueeSlider": {
+    "className": "muted-extra",
+    "items": [
+      {
+        "text": "Clients Approve",
+        "svg": "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80' fill='currentColor'><path fill='currentColor' d='M78.4,38.4c0,0-11.8,0-15.8,0c-1.6,0-4.8-0.2-7.1-0.8c-2.3-0.6-4.3-0.8-6.3-2.4c-2-1.2-3.5-3.2-4.7-4.8 c-1.2-1.6-1.6-3.6-2-5.5c-0.3-1.5-0.7-4.3-0.8-5.9c-0.2-4.3,0-17.4,0-17.4C41.8,0.8,41,0,40.2,0s-1.6,0.8-1.6,1.6c0,0,0,13.1,0,17.4 c0,1.6-0.6,4.3-0.8,5.9c-0.3,2-0.8,4-2,5.5c-1.2,2-2.8,3.6-4.7,4.8s-4,1.8-6.3,2.4c-1.9,0.5-4.7,0.6-6.7,0.8c-3.9,0.4-16.6,0-16.6,0 C0.8,38.4,0,39.2,0,40c0,0.8,0.8,1.6,1.6,1.6c0,0,12.2,0,16.6,0c1.6,0,4.8,0.3,6.7,0.8c2.3,0.6,4.3,0.8,6.3,2.4 c1.6,1.2,3.2,2.8,4.3,4.4c1.2,2,2.1,3.9,2.4,6.3c0.2,1.7,0.7,4.7,0.8,6.7c0.2,4,0,16.2,0,16.2c0,0.8,0.8,1.6,1.6,1.6 s1.6-0.8,1.6-1.6c0,0,0-12.3,0-16.2c0-1.6,0.5-5.1,0.8-6.7c0.5-2.3,0.8-4.4,2.4-6.3c1.2-1.6,2.8-3.2,4.3-4.4c2-1.2,3.9-2,6.3-2.4 c1.8-0.3,5.1-0.7,7.1-0.8c3.5-0.2,15.8,0,15.8,0c0.8,0,1.6-0.8,1.6-1.6C80,39.2,79.2,38.4,78.4,38.4z'/></svg>"
+      },
+      {
+        "text": "Clients Approve",
+"svg": "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80' fill='currentColor'><path fill='currentColor' d='M78.4,38.4c0,0-11.8,0-15.8,0c-1.6,0-4.8-0.2-7.1-0.8c-2.3-0.6-4.3-0.8-6.3-2.4c-2-1.2-3.5-3.2-4.7-4.8 c-1.2-1.6-1.6-3.6-2-5.5c-0.3-1.5-0.7-4.3-0.8-5.9c-0.2-4.3,0-17.4,0-17.4C41.8,0.8,41,0,40.2,0s-1.6,0.8-1.6,1.6c0,0,0,13.1,0,17.4 c0,1.6-0.6,4.3-0.8,5.9c-0.3,2-0.8,4-2,5.5c-1.2,2-2.8,3.6-4.7,4.8s-4,1.8-6.3,2.4c-1.9,0.5-4.7,0.6-6.7,0.8c-3.9,0.4-16.6,0-16.6,0 C0.8,38.4,0,39.2,0,40c0,0.8,0.8,1.6,1.6,1.6c0,0,12.2,0,16.6,0c1.6,0,4.8,0.3,6.7,0.8c2.3,0.6,4.3,0.8,6.3,2.4 c1.6,1.2,3.2,2.8,4.3,4.4c1.2,2,2.1,3.9,2.4,6.3c0.2,1.7,0.7,4.7,0.8,6.7c0.2,4,0,16.2,0,16.2c0,0.8,0.8,1.6,1.6,1.6 s1.6-0.8,1.6-1.6c0,0,0-12.3,0-16.2c0-1.6,0.5-5.1,0.8-6.7c0.5-2.3,0.8-4.4,2.4-6.3c1.2-1.6,2.8-3.2,4.3-4.4c2-1.2,3.9-2,6.3-2.4 c1.8-0.3,5.1-0.7,7.1-0.8c3.5-0.2,15.8,0,15.8,0c0.8,0,1.6-0.8,1.6-1.6C80,39.2,79.2,38.4,78.4,38.4z'/></svg>"
+      },
+      {
+        "text": "Clients Approve",
+"svg": "<svg version='1.1' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 80 80' fill='currentColor'><path fill='currentColor' d='M78.4,38.4c0,0-11.8,0-15.8,0c-1.6,0-4.8-0.2-7.1-0.8c-2.3-0.6-4.3-0.8-6.3-2.4c-2-1.2-3.5-3.2-4.7-4.8 c-1.2-1.6-1.6-3.6-2-5.5c-0.3-1.5-0.7-4.3-0.8-5.9c-0.2-4.3,0-17.4,0-17.4C41.8,0.8,41,0,40.2,0s-1.6,0.8-1.6,1.6c0,0,0,13.1,0,17.4 c0,1.6-0.6,4.3-0.8,5.9c-0.3,2-0.8,4-2,5.5c-1.2,2-2.8,3.6-4.7,4.8s-4,1.8-6.3,2.4c-1.9,0.5-4.7,0.6-6.7,0.8c-3.9,0.4-16.6,0-16.6,0 C0.8,38.4,0,39.2,0,40c0,0.8,0.8,1.6,1.6,1.6c0,0,12.2,0,16.6,0c1.6,0,4.8,0.3,6.7,0.8c2.3,0.6,4.3,0.8,6.3,2.4 c1.6,1.2,3.2,2.8,4.3,4.4c1.2,2,2.1,3.9,2.4,6.3c0.2,1.7,0.7,4.7,0.8,6.7c0.2,4,0,16.2,0,16.2c0,0.8,0.8,1.6,1.6,1.6 s1.6-0.8,1.6-1.6c0,0,0-12.3,0-16.2c0-1.6,0.5-5.1,0.8-6.7c0.5-2.3,0.8-4.4,2.4-6.3c1.2-1.6,2.8-3.2,4.3-4.4c2-1.2,3.9-2,6.3-2.4 c1.8-0.3,5.1-0.7,7.1-0.8c3.5-0.2,15.8,0,15.8,0c0.8,0,1.6-0.8,1.6-1.6C80,39.2,79.2,38.4,78.4,38.4z'/></svg>"
+      }
+    ]
+  }
+
+},
+"webPage":{
+   "hero": {
+    "sectionName": "Services",
+    "title": "New standards in digital excellence",
+    "stats": [
+      {
+        "id": 1,
+        "counter": 5,
+        "suffix": "+",
+        "description": "Years of professional experience in designing digital products",
+        "buttonText": "Start New Project",
+        "buttonLink": "/contact",
+        "image": "/img/illustrations/800x800_card-image-03.webp"
+      },
+      {
+        "id": 2,
+        "counter": 70,
+        "suffix": "+",
+        "description": "Successfully\ncompleted projects",
+        "buttonText": "Works",
+        "buttonLink": "/works-simple",
+        "image": "/img/illustrations/800x800_card-image-04.webp"
+      }
+      
+    ]
+  },
+   "servicesStrack": [
+    {
+      "id": 1,
+      "title": "Digital art and graphic design",
+      "tags": ["UI/UX", "Web design", "Packaging", "Motion", "3D models"],
+      "description": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+      "images": {
+        "small": "/img/services/800x800_ser-01.webp",
+        "medium": "/img/services/1000x1000_ser-01.webp"
+      },
+      "bgClass": "bg-base-opp",
+      "btnClass": "btn-additional",
+      "titleClass": "opposite",
+      "pClass": "t-opposite"
+    },
+    {
+      "id": 2,
+      "title": "Creative development",
+      "tags": ["Frontend", "Interactions", "Backend", "Mobile Apps"],
+      "description": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance.",
+      "images": {
+        "small": "/img/services/800x800_ser-02.webp",
+        "medium": "/img/services/1000x1000_ser-02.webp"
+      },
+      "bgClass": "bg-accent",
+      "btnClass": "btn-base",
+      "titleClass": "opposite",
+      "pClass": "t-opposite"
+    },
+    {
+      "id": 3,
+      "title": "Brand identity",
+      "tags": ["Brand strategy", "Logo design", "Guidelines", "Rebranding"],
+      "description": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity.",
+      "images": {
+        "small": "/img/services/800x800_ser-03.webp",
+        "medium": "/img/services/1000x1000_ser-03.webp"
+      },
+      "bgClass": "bg-base-tint radius-dark",
+      "btnClass": "btn-opposite",
+      "titleClass": "",
+      "pClass": ""
+    },
+    {
+      "id": 4,
+      "title": "Digital marketing solutions",
+      "tags": ["Strategy", "Social media", "SEO", "Optimization", "Campaigns"],
+      "description": "SEO and content marketing, social media management and paid campaigns — we help you reach and engage your target audience effectively.",
+      "images": {
+        "small": "/img/services/800x800_ser-04.webp",
+        "medium": "/img/services/1000x1000_ser-04.webp"
+      },
+      "bgClass": "bg-base-opp",
+      "btnClass": "btn-additional",
+      "titleClass": "opposite",
+      "pClass": "t-opposite"
+    }
+  ],
+  "services":[
+      {
+        "img": "/img/illustrations/800x800_pinned-image-01.webp",
+        "title": "Digital art and graphic design",
+        "tags": [
+          "UI/UX",
+          "Web design",
+          "Motion",
+          "3D models"
+        ],
+        "desc": "We create visually compelling designs that enhance user experience. We make sure your brand\u2019s visuals resonate with your audience."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-02.webp",
+        "title": "Creative development",
+        "tags": [
+          "Frontend",
+          "Interactions",
+          "Backend",
+          "E-Commerce"
+        ],
+        "desc": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-03.webp",
+        "title": "Brand identity",
+        "tags": [
+          "Brand strategy",
+          "Logo design",
+          "Guidelines",
+          "Visual identity",
+          "Rebranding"
+        ],
+        "desc": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity and consistent messaging across all touchpoints."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-04.webp",
+        "title": "Digital marketing solutions",
+        "tags": [
+          "Social media",
+          "SEO Optimization",
+          "Email",
+          "Campaigns"
+        ],
+        "desc": "SEO and content marketing, social media management and paid campaigns - we help you reach and engage your target audience effectively."
+      }
+    ],
+     
+  "expertiseSection": {
+    "title": "My expertise",
+    "buttonText": "All Services",
+    "buttonLink": "/services",
+    "expertise": [
+      {
+        "title": "UI/UX design",
+        "num": "/ 01",
+        "hoverImage": "/img/illustrations/600x730_cpb-04.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-04.webp"
+      },
+      {
+        "title": "Hi-end websites",
+        "num": "/ 02",
+        "hoverImage": "/img/illustrations/600x730_cpb-01.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-01.webp"
+      },
+      {
+        "title": "Framer",
+        "num": "/ 03",
+        "hoverImage": "/img/illustrations/600x730_cpb-02.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-02.webp"
+      },
+      {
+        "title": "Webflow",
+        "num": "/ 04",
+        "hoverImage": "/img/illustrations/600x730_cpb-03.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-03.webp"
+      },
+      {
+        "title": "3d art",
+        "num": "/ 05",
+        "hoverImage": "/img/illustrations/600x730_cpb-05.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-05.webp"
+      },
+      {
+        "title": "Motion graphics",
+        "num": "/ 06",
+        "hoverImage": "/img/illustrations/600x730_cpb-06.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-06.webp"
+      }
+    ]
+ 
+}
+
+},
+"staffPage":{
+  "Hero": {
+    "heroTitle": "Design. Development. Digital Art. Branding.",
+    "marqueeItems": [
+      { "text": "Design", "svg": "/svg/design.svg" },
+      { "text": "Development", "svg": "/svg/development.svg" },
+      { "text": "Digital Art", "svg": "/svg/digital-art.svg" },
+      { "text": "Branding", "svg": "/svg/branding.svg" }
+    ],
+    "heroImage": "/img/hero/21_hero-img.webp",
+    "counters": [
+      { "id": "stats-counter-1", "max": 3, "label": "Years of experience" },
+      { "id": "stats-counter-2", "max": 70, "label": "Successful projects" }
+    ],
+    "description": "Hey! I'm Alex Walker.\nDigital artist, illustrator and creative developer.",
+    "tagsLeft": ["HTML", "Frontend", "Motion design", "3d modeling", "Video editing"],
+    "tagsRight": ["Interactive design", "Editorial", "Web experience", "UI/UX", "Branding", "Web design"],
+    "scrollButton": {
+      "text": "Scroll for more",
+      "href": "#projects",
+      "iconClass": "ph-bold ph-arrow-elbow-right-down"
+    },
+    "freelanceText": "Available for freelance"
+  },
+
+  "services":[
+      {
+        "img": "/img/illustrations/800x800_pinned-image-01.webp",
+        "title": "Digital art and graphic design",
+        "tags": [
+          "UI/UX",
+          "Web design",
+          "Motion",
+          "3D models"
+        ],
+        "desc": "We create visually compelling designs that enhance user experience. We make sure your brand\u2019s visuals resonate with your audience."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-02.webp",
+        "title": "Creative development",
+        "tags": [
+          "Frontend",
+          "Interactions",
+          "Backend",
+          "E-Commerce"
+        ],
+        "desc": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-03.webp",
+        "title": "Brand identity",
+        "tags": [
+          "Brand strategy",
+          "Logo design",
+          "Guidelines",
+          "Visual identity",
+          "Rebranding"
+        ],
+        "desc": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity and consistent messaging across all touchpoints."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-04.webp",
+        "title": "Digital marketing solutions",
+        "tags": [
+          "Social media",
+          "SEO Optimization",
+          "Email",
+          "Campaigns"
+        ],
+        "desc": "SEO and content marketing, social media management and paid campaigns - we help you reach and engage your target audience effectively."
+      }
+    ]
+    
+},
+"cloudPage":{
+  "heroData": {
+    "video": {
+      "poster": "/video/1920x1080_video-03.webp",
+      "mp4": "/video/1920x1080_video-03.mp4",
+      "webm": "/video/1920x1080_video-03.webm",
+      "ogv": "/video/1920x1080_video-03.ogv"
+    },
+
+    "lists": [
+      {
+        "items": [
+          "Innovations",
+          "Creativity",
+          "Experience",
+          "Competence",
+          "Passion"
+        ]
+      },
+      {
+        "items": [
+          "UI/UX",
+          "App design",
+          "Development",
+          "Branding",
+          "Motion"
+        ]
+      }
+    ],
+
+    "headlineDescription": "👽 Hey! I’m Alex Walker, digital designer and illustrator based in Odesa, Ukraine",
+
+    "downloadButtonText": "Download CV * Download CV * Download CV *",
+
+    "downloadButtonImage": "/img/icons/300x300_obj-btn-03.webp",
+
+    "title": "Digital designer, creative developer, illustrator",
+
+    "marquee": [
+      "Digital designer",
+      "Creative developer",
+      "Illustrator"
+    ],
+
+    "markText": "Available for freelance",
+
+    "scrollButton": {
+      "text": "Scroll for more",
+      "href": "#projects"
+    }
+  },
+    "services":[
+      {
+        "img": "/img/illustrations/800x800_pinned-image-01.webp",
+        "title": "Digital art and graphic design",
+        "tags": [
+          "UI/UX",
+          "Web design",
+          "Motion",
+          "3D models"
+        ],
+        "desc": "We create visually compelling designs that enhance user experience. We make sure your brand\u2019s visuals resonate with your audience."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-02.webp",
+        "title": "Creative development",
+        "tags": [
+          "Frontend",
+          "Interactions",
+          "Backend",
+          "E-Commerce"
+        ],
+        "desc": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-03.webp",
+        "title": "Brand identity",
+        "tags": [
+          "Brand strategy",
+          "Logo design",
+          "Guidelines",
+          "Visual identity",
+          "Rebranding"
+        ],
+        "desc": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity and consistent messaging across all touchpoints."
+      },
+      {
+        "img": "/img/illustrations/800x800_pinned-image-04.webp",
+        "title": "Digital marketing solutions",
+        "tags": [
+          "Social media",
+          "SEO Optimization",
+          "Email",
+          "Campaigns"
+        ],
+        "desc": "SEO and content marketing, social media management and paid campaigns - we help you reach and engage your target audience effectively."
+      }
+    ],
+   "servicesStrack": [
+    {
+      "id": 1,
+      "title": "Digital art and graphic design",
+      "tags": ["UI/UX", "Web design", "Packaging", "Motion", "3D models"],
+      "description": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+      "images": {
+        "small": "/img/services/800x800_ser-01.webp",
+        "medium": "/img/services/1000x1000_ser-01.webp"
+      },
+      "bgClass": "bg-base-opp",
+      "btnClass": "btn-additional",
+      "titleClass": "opposite",
+      "pClass": "t-opposite"
+    },
+    {
+      "id": 2,
+      "title": "Creative development",
+      "tags": ["Frontend", "Interactions", "Backend", "Mobile Apps"],
+      "description": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance.",
+      "images": {
+        "small": "/img/services/800x800_ser-02.webp",
+        "medium": "/img/services/1000x1000_ser-02.webp"
+      },
+      "bgClass": "bg-accent",
+      "btnClass": "btn-base",
+      "titleClass": "opposite",
+      "pClass": "t-opposite"
+    },
+    {
+      "id": 3,
+      "title": "Brand identity",
+      "tags": ["Brand strategy", "Logo design", "Guidelines", "Rebranding"],
+      "description": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity.",
+      "images": {
+        "small": "/img/services/800x800_ser-03.webp",
+        "medium": "/img/services/1000x1000_ser-03.webp"
+      },
+      "bgClass": "bg-base-tint radius-dark",
+      "btnClass": "btn-opposite",
+      "titleClass": "",
+      "pClass": ""
+    },
+    {
+      "id": 4,
+      "title": "Digital marketing solutions",
+      "tags": ["Strategy", "Social media", "SEO", "Optimization", "Campaigns"],
+      "description": "SEO and content marketing, social media management and paid campaigns — we help you reach and engage your target audience effectively.",
+      "images": {
+        "small": "/img/services/800x800_ser-04.webp",
+        "medium": "/img/services/1000x1000_ser-04.webp"
+      },
+      "bgClass": "bg-base-opp",
+      "btnClass": "btn-additional",
+      "titleClass": "opposite",
+      "pClass": "t-opposite"
+    }
+  ],
+    
+  "expertiseSection": {
+    "title": "My expertise",
+    "buttonText": "All Services",
+    "buttonLink": "/services",
+    "expertise": [
+      {
+        "title": "UI/UX design",
+        "num": "/ 01",
+        "hoverImage": "/img/illustrations/600x730_cpb-04.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-04.webp"
+      },
+      {
+        "title": "Hi-end websites",
+        "num": "/ 02",
+        "hoverImage": "/img/illustrations/600x730_cpb-01.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-01.webp"
+      },
+      {
+        "title": "Framer",
+        "num": "/ 03",
+        "hoverImage": "/img/illustrations/600x730_cpb-02.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-02.webp"
+      },
+      {
+        "title": "Webflow",
+        "num": "/ 04",
+        "hoverImage": "/img/illustrations/600x730_cpb-03.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-03.webp"
+      },
+      {
+        "title": "3d art",
+        "num": "/ 05",
+        "hoverImage": "/img/illustrations/600x730_cpb-05.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-05.webp"
+      },
+      {
+        "title": "Motion graphics",
+        "num": "/ 06",
+        "hoverImage": "/img/illustrations/600x730_cpb-06.webp",
+        "mainImage": "/img/illustrations/1200x800_cpb-06.webp"
+      }
+    ]
+ 
+},
+"facts": [
+    {
+      "number": 50,
+      "suffix": "+",
+      "description": "Happy clients who\ntrust my work",
+      "image": "/img/illustrations/800x800_card-image-01.webp",
+      "imageWidth": 800,
+      "imageHeight": 800,
+
+      "button": {
+        "text": "Studio",
+        "href": "/about-us",
+        "iconClass": "ph-bold ph-arrow-up-right",
+        "btnClass": "btn btn-anim btn-default btn-outline opposite slide-right-up"
+      },
+
+      "cardClass": "mxd-stats-cards__inner align-end bg-accent radius-m padding-4",
+      "counterId": "stats-counter-1",
+      "numberClass": "mxd-counter__number mxd-stats-number opposite",
+      "descrClass": "mxd-counter__descr t-140 t-bright opposite",
+      "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-1",
+      "colClass": "col-12 col-xl-5 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-right"
+    },
+
+    {
+      "number": 80,
+      "suffix": "%",
+      "description": "Clients come back for\na new projects",
+      "image": "/img/illustrations/800x800_card-image-02.webp",
+      "imageWidth": 800,
+      "imageHeight": 800,
+
+      "avatars": [
+        {
+          "src": "/img/avatars/300x300_ava-02.webp",
+          "alt": "Avatar",
+          "width": 300,
+          "height": 300
+        },
+        {
+          "svg": true
+        },
+        {
+          "src": "/img/avatars/300x300_ava-01.webp",
+          "alt": "Avatar",
+          "width": 300,
+          "height": 300
+        }
+      ],
+
+      "cardClass": "mxd-stats-cards__inner align-end bg-base-tint radius-m padding-4",
+      "counterId": "stats-counter-2",
+      "numberClass": "mxd-counter__number mxd-stats-number",
+      "descrClass": "mxd-counter__descr t-140 t-bright",
+      "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-2",
+      "colClass": "col-12 col-xl-7 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-left"
+    },
+
+    {
+      "number": 5,
+      "suffix": "+",
+      "description": "Years of professional experience in designing digital products",
+      "image": "/img/illustrations/800x800_card-image-03.webp",
+      "imageWidth": 800,
+      "imageHeight": 800,
+
+      "button": {
+        "text": "Start New Project",
+        "href": "/contact",
+        "iconClass": "ph-bold ph-arrow-down-right",
+        "btnClass": "btn btn-anim btn-default btn-outline slide-right-down"
+      },
+
+      "cardClass": "mxd-stats-cards__inner bg-base-tint radius-m padding-4",
+      "counterId": "stats-counter-3",
+      "numberClass": "mxd-counter__number mxd-stats-number",
+      "descrClass": "mxd-counter__descr t-140 t-bright",
+      "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-3",
+      "colClass": "col-12 col-xl-7 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-right"
+    },
+
+    {
+      "number": 70,
+      "suffix": "+",
+      "description": "Successfully\ncompleted projects",
+      "image": "/img/illustrations/800x800_card-image-04.webp",
+      "imageWidth": 800,
+      "imageHeight": 800,
+
+      "button": {
+        "text": "Works",
+        "href": "/works-simple",
+        "iconClass": "ph-bold ph-arrow-up-right",
+        "btnClass": "btn btn-anim btn-default btn-outline slide-right-up"
+      },
+
+      "cardClass": "mxd-stats-cards__inner bg-base-tint radius-m padding-4",
+      "counterId": "stats-counter-4",
+      "numberClass": "mxd-counter__number mxd-stats-number",
+      "descrClass": "mxd-counter__descr t-140 t-bright",
+      "imageClass": "mxd-stats-cards__image mxd-stats-cards-image-4",
+      "colClass": "col-12 col-xl-5 mxd-stats-cards__item mxd-grid-item anim-uni-scale-in-left"
+    }
+  ]
+},
+"aiml":{
+  "hero": {
+    "image": {
+      "src": "/img/hero/16_hero-img.webp",
+      "width": 800,
+      "height": 781,
+      "alt": "Hero Image"
+    },
+    "title": "Intelligent Systems. Scalable Impact. Real Results.",
+    "description": "NITSAN’s AI & ML services help your team design, deploy and fine‑tune smart systems that automate tasks, surface insights and drive business outcomes — all built for production‑ready reliability.",
+    "video": {
+      "mp4": "video/540x310_video-01.mp4",
+      "webm": "video/540x310_video-01.webm",
+      "ogv": "video/540x310_video-01.ogv",
+      "poster": "video/540x310_video-01.webp",
+      "modal": "https://vimeo.com/65036292"
+    },
+    "bottomBadge": "Let’s Innovate"
+  
+  },
+  "contactUs": {
+      "pageTitleData": {
+        "sectionName": "Contact",
+        "headlineTitle": [
+          "Let's Talk.",
+          "We Are Ready to Collaborate."
+        ],
+        "email": "hello@company.com",
+        "emailSubject": "New AI/ML Inquiry",
+        "description": "We help companies build intelligent systems that scale."
+      },
+      "contactForm": {
+        "reply": {
+          "icon": "ph-fill ph-smiley-wink",
+          "title": "Done!",
+          "message": "Thanks for your message. We'll get back as soon as possible."
+        },
+        "formData": {
+          "hiddenFields": {
+            "_subject": "New AI/ML Contact",
+            "_template": "table"
+          },
+
+          "formFields": {
+            "name": {
+              "placeholder": "Your Name",
+              "type": "text",
+              "required": true,
+              "colClass": "col-12 col-md-6"
+            },
+            "email": {
+              "placeholder": "Your Email",
+              "type": "email",
+              "required": true,
+              "colClass": "col-12 col-md-6"
+            },
+            "message": {
+              "placeholder": "Your Message",
+              "type": "textarea",
+              "required": true,
+              "colClass": "col-12"
+            }
+          },
+
+          "button": {
+            "text": "Submit Message",
+            "class": "btn btn-anim btn-accent btn-large slide-right-up"
+          }
+        }
+      }
+    },
+  "servicesStack": [
+      {
+        "title": "Digital art and graphic design",
+        "tags": ["UI/UX", "Web design", "Packaging", "Motion", "3D models"],
+        "description": "We create visually compelling designs that enhance user experience. We make sure your brand's visuals resonate with your audience.",
+        "link": "/services",
+        "images": {
+          "small": "/img/services/800x800_ser-01.webp",
+          "large": "/img/services/1000x1000_ser-01.webp"
+        }
+      },
+      {
+        "title": "Creative<br/>development",
+        "tags": ["Frontend", "Interactions", "Backend", "Mobile Apps"],
+        "description": "We build high-performance websites and applications using modern technologies. Our solutions are designed to be scalable and functional for optimal performance.",
+        "link": "/services",
+        "images": {
+          "small": "/img/services/800x800_ser-02.webp",
+          "large": "/img/services/1000x1000_ser-02.webp"
+        }
+      },
+      {
+        "title": "Brand<br/>identity",
+        "tags": ["Brand strategy", "Logo design", "Guidelines", "Rebranding"],
+        "description": "From logo design to comprehensive brand strategies, we ensure your business stands out with a unique visual identity and consistent messaging across all touchpoints.",
+        "link": "/services",
+        "images": {
+          "small": "/img/services/800x800_ser-03.webp",
+          "large": "/img/services/1000x1000_ser-03.webp"
+        }
+      },
+      {
+        "title": "Digital marketing<br/>solutions",
+        "tags": ["Strategy", "Social media", "SEO", "Optimization", "Campaigns"],
+        "description": "SEO and content marketing, social media management and paid campaigns - we help you reach and engage your target audience effectively.",
+        "link": "/services",
+        "images": {
+          "small": "/img/services/800x800_ser-04.webp",
+          "large": "/img/services/1000x1000_ser-04.webp"
+        }
+      }
+    ]
+
+},
+"product": {
+    "about": {
+      "title": "Company",
+      "paragraphs": [
+        "We are a creative digital agency specializing in innovative design and cutting-edge development. We help businesses stand out and thrive in the modern landscape.",
+        "From pixel-perfect designs to flawless code, every aspect of our projects is crafted with care to ensure the highest standards of quality. We are passionate about integrating the latest technologies and trends, including interactive animations and mobile-first strategies."
+      ],
+      "button": {
+        "text": "More About Us",
+        "href": "/about-us"
+      }
+    },
+    "hero05": {
+      "titleRows": [
+        ["Shaping ideas"],
+        ["<svg></svg>", "into real stories"]
+      ],
+      "avatars": {
+        "left": "/img/avatars/300x300_ava-02.webp",
+        "right": "/img/avatars/300x300_ava-01.webp",
+        "customersText": "10k+ customers"
+      },
+      "worksBlock": {
+        "image": "/img/hero/05_hero-img.webp",
+        "caption": "Blending creativity with practical design",
+        "buttonText": "Explore",
+        "buttonHref": "/works-simple"
+      },
+      "videoBlock": {
+        "poster": "video/1280x720_video-01.webp",
+        "mp4": "video/1280x720_video-01.mp4",
+        "webm": "video/1280x720_video-01.webm",
+        "ogv": "video/1280x720_video-01.ogv",
+        "caption": "We are a creative digital agency specializing in innovative design and cutting-edge development."
+      }
+    },
+    "pricing": [
+      {
+        "tag": "Special Offer",
+        "tagClass": "tag-default tag-accent",
+        "title": "Custom Website",
+        "descr": "Inspiring ideas, creative insights, and the latest in design and tech.",
+        "currency": "$",
+        "amount": "8000",
+        "period": "/once",
+        "timeline": "Timeline: from 2 weeks to 1 month",
+        "btnText": "Start Project",
+        "btnHref": "contact.html",
+        "features": [
+          "Custom design and development",
+          "Responsive layout",
+          "SEO optimization",
+          "CMS integration",
+          "Basic training"
+        ],
+        "linkText": "Need more info? Let's talk.",
+        "linkHref": "contact.html"
+      },
+      {
+        "tag": "Best Choice",
+        "tagClass": "tag-default tag-additional",
+        "title": "Brand Support",
+        "descr": "Ongoing creative services to enhance your brand.",
+        "currency": "$",
+        "amount": "399",
+        "period": "/month",
+        "timeline": "Timeline: monthly subscription",
+        "btnText": "Start Project",
+        "btnHref": "contact.html",
+        "features": [
+          "Digital and print design",
+          "Website management",
+          "Social media branding",
+          "Strategy & consulting",
+          "Priority support"
+        ],
+        "linkText": "Need more info? Let's talk.",
+        "linkHref": "contact.html",
+        "best": true
+      },
+      {
+  "title": "Customize your package, and get exactly what fits your vision.",
+  "descr": "",
+  "currency": "",
+  "amount": "",
+  "period": "",
+  "btnText": "Start Project",
+  "btnHref": "contact.html",
+  "features": [
+    "Pick the services you need",
+    "Scalable projects",
+    "Flexible adjustments",
+    "Project management",
+    "Ongoing support"
+  ],
+  "linkText": "Need more info? Let's talk.",
+  "linkHref": "contact.html"
+}
+
+    ],
+    "testimonials": [
+      {
+        "authorPhoto": "/img/testimonials/author-01.webp",
+        "authorPhotoWidth": 110,
+        "authorPhotoHeight": 110,
+        "companyLogo": "/img/testimonials/company-01.svg",
+        "companyLogoWidth": 120,
+        "companyLogoHeight": 40,
+        "text": "Working with this team has been a transformative experience. Their expertise and passion made our product shine.",
+        "projectPage": "/project-details",
+        "authorName": "Emily Carter",
+        "authorPosition": "CEO, ",
+        "authorCompany": "VisionTech",
+        "authorCompanyUrl": "https://visiontech.com"
+      },
+      {
+        "authorPhoto": "/img/testimonials/author-02.webp",
+        "authorPhotoWidth": 110,
+        "authorPhotoHeight": 110,
+        "companyLogo": "/img/testimonials/company-02.svg",
+        "companyLogoWidth": 120,
+        "companyLogoHeight": 40,
+        "text": "A fantastic creative partner! Their attention to detail and design intuition elevated our brand identity.",
+        "projectPage": "/project-details",
+        "authorName": "Daniel Moore",
+        "authorPosition": "Founder, ",
+        "authorCompany": "BrightLabs",
+        "authorCompanyUrl": "https://brightlabs.io"
+      },
+      {
+        "authorPhoto": "/img/testimonials/author-03.webp",
+        "authorPhotoWidth": 110,
+        "authorPhotoHeight": 110,
+        "companyLogo": "/img/testimonials/company-03.svg",
+        "companyLogoWidth": 120,
+        "companyLogoHeight": 40,
+        "text": "Their team delivered beyond expectations. Smooth process, excellent communication, and stunning results.",
+        "projectPage": "/project-details",
+        "authorName": "Sophia Lee",
+        "authorPosition": "Product Lead, ",
+        "authorCompany": "NovaWorks",
+        "authorCompanyUrl": "https://novaworks.io"
+      }
+    ]
+}
+
+
+
+
+
+    
+
+
+  
+
+
+    
+
+  }
